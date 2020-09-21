@@ -10,4 +10,4 @@
 <br>
 I was a learn : [Programming](https://www.youtube.com/channel/UCPMRfXjpTbX9eiimya1orrw)<br>
 
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=YourUsername&repo=YourRepositoryName)
+![ReadMe Card](https://github.com/Bahrul-Rozak/Bahrul-Rozak)
