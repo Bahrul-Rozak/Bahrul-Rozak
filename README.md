@@ -1,4 +1,4 @@
-<img src="https://unsplash.com/photos/xrVDYZRGdw4"/>
+<img src="https://unsplash.com/photos/xrVDYZRGdw4" width="300" height="200"/>
  
 ### <h1><center> Hello 👋, I'm Bahrul Rozak. </center></h1>
 ### I'm a Frontend Web Developer. Welcome to my github page! <br>
@@ -9,5 +9,3 @@
 <br>
 <br>
 I was a learn : [Programming](https://www.youtube.com/channel/UCPMRfXjpTbX9eiimya1orrw)<br>
-
-![ReadMe Card](https://github.com/Bahrul-Rozak/Bahrul-Rozak)
