@@ -8,23 +8,6 @@
 📫 How to reach me: <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Email](bahrulrozak02@gmail.com)
  
-😄 Pronouns: She/Her/Hers <br>
-⚡ Fun facts:<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :musical_note:  I was a learn programming: [Programming](https://www.youtube.com/channel/UCPMRfXjpTbX9eiimya1orrw)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :fallen_leaf: My favorite season is fall :smile: <br>
- 
- 
-<!--
-**ckopecky/ckopecky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
- 
-Here are some ideas to get you started:
- 
-- 🔭 I'm currently working on ...
-- 🌱 I'm currently learning ...
-- 👯 I'm looking to collaborate on ...
-- 🤔 I'm looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :musical_note:  I was a learn : [Programming](https://www.youtube.com/channel/UCPMRfXjpTbX9eiimya1orrw)<br>
+
