@@ -10,9 +10,9 @@ I was a learn : [Programming](https://www.youtube.com/channel/UCPMRfXjpTbX9eiimy
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 <img align="center" src="https://github.com/saviomartin/saviomartin/blob/master/assets/about.png?raw=true"/>
 
-- 🔭 I’m currently working on Yii2
+
 - 🌱 I’m currently learning Frontend
-- 💬 Ask me anything about Backend
+- 💬 Ask me anything about how to mentor students, creating a portfolio site for you, or assistance with an application you are working on.
 - 📫 How to reach me: syahdanfilsafan58@gmail.com
 - 😄 My Whatsapp : [+628998937095 ](http://wa.me/628998937095 "+628998937095 ")
 - ⚡ Fun fact: I'm comming to teen
