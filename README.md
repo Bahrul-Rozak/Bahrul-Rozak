@@ -1,7 +1,9 @@
  
 ### <h1>Hello 👋, I'm Bahrul Rozak</h1>
 ### I'm a Frontend Web Developer. Welcome to my github page! <br>
-  
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
+<img align="center" src="https://github.com/saviomartin/saviomartin/blob/master/assets/about.png?raw=true"/>
+
 - 🌱 I’m currently learning React, Nodejs
 - 💬 Ask me anything about how to mentor students, creating a portfolio site for you, or assistance with an application you are working on.
 - 📫 How to reach me: bahrulrozak@gmail.com
