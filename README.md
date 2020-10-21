@@ -12,6 +12,7 @@
 <img align="center" src="https://github.com/saviomartin/saviomartin/blob/master/assets/connect.png?raw=true"/>
 
 - <a href="https://www.instagram.com/rozak.py_/"><img src="https://img.shields.io/badge/instagram%20@rozak.py_-DD2476?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+- <a href="https://www.youtube.com/rozak.py_/"><img src="https://img.shields.io/badge/youtube%20@rozak.py_-DD2476?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 
 <img align="center" src="https://github.com/saviomartin/saviomartin/blob/master/assets/skills.png?raw=true">
 
