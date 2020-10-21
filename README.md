@@ -9,9 +9,7 @@
 
 <img align="center" src="https://github.com/saviomartin/saviomartin/blob/master/assets/connect.png?raw=true"/>
 
-- <a href="https://www.instagram.com/portofolio_cloud_dark/"><img src="https://img.shields.io/badge/instagram%20@portofolio_cloud_dark-DD2476?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-- <a href="https://www.facebook.com/massyahdanfilsafan"><img src="https://img.shields.io/badge/facebook%20@mas syahdan filsafan-344E86?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-- <a href="https://github.com/Cloud-Dark/"><img height="30px" src="https://img.shields.io/badge/cloud dark-8E2DE2?style=for-the-badge&logo=google%20chrome&logoColor=white"/></a>
+- <a href="https://www.instagram.com/rozak.py_/"><img height="30px" src="https://img.shields.io/badge/bahrul rozak-8E2DE2?style=for-the-badge&logo=google%20chrome&logoColor=white"/></a>
 
 <img align="center" src="https://github.com/saviomartin/saviomartin/blob/master/assets/skills.png?raw=true">
 
