@@ -2,20 +2,10 @@
 ### <h1>Hello 👋, I'm Bahrul Rozak</h1>
 ### I'm a Frontend Web Developer. Welcome to my github page! <br>
   
-🌱 *Currently Learning*: React, Node JS<br>
-🤔 *Looking for help*: I'm looking for help with trying to find my first software engineering job in this current job climate.<br>
-💬 Ask me about: how to mentor students, creating a portfolio site for you, or assistance with an application you are working on. <br>
-<br>
-I was a learn : [Programming](https://www.youtube.com/channel/UCPMRfXjpTbX9eiimya1orrw)<br>
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
-<img align="center" src="https://github.com/saviomartin/saviomartin/blob/master/assets/about.png?raw=true"/>
-
-
-- 🌱 I’m currently learning Frontend
+- 🌱 I’m currently learning React, Nodejs
 - 💬 Ask me anything about how to mentor students, creating a portfolio site for you, or assistance with an application you are working on.
-- 📫 How to reach me: syahdanfilsafan58@gmail.com
-- 😄 My Whatsapp : [+628998937095 ](http://wa.me/628998937095 "+628998937095 ")
-- ⚡ Fun fact: I'm comming to teen
+- 📫 How to reach me: bahrulrozak@gmail.com
+- ⚡ I was a learn : [Programming](https://www.youtube.com/channel/UCPMRfXjpTbX9eiimya1orrw)
 
 <img align="center" src="https://github.com/saviomartin/saviomartin/blob/master/assets/connect.png?raw=true"/>
 
