@@ -11,7 +11,6 @@
 
 <img align="center" src="https://github.com/saviomartin/saviomartin/blob/master/assets/connect.png?raw=true"/>
 
-- <a href="https://www.instagram.com/rozak.py_/"><img height="30px" src="https://img.shields.io/badge/bahrul rozak-8E2DE2?style=for-the-badge&logo=google%20chrome&logoColor=white"/></a>
 - <a href="https://www.instagram.com/rozak.py_/"><img src="https://img.shields.io/badge/instagram%20@rozak.py_-DD2476?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 
 <img align="center" src="https://github.com/saviomartin/saviomartin/blob/master/assets/skills.png?raw=true">
@@ -39,14 +38,11 @@
 
 <img align="center" src="https://github.com/saviomartin/saviomartin/blob/master/assets/git.png?raw=true"/>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Cloud-Dark&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=8E2DE2&icon_color=8E2DE2&text_color=8E2DE2&bg_color=0,000000,130F40" alt="devSouvik's Github Stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Bahrul-Rozak&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=8E2DE2&icon_color=8E2DE2&text_color=8E2DE2&bg_color=0,000000,130F40" alt="devSouvik's Github Stats">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cloud-Dark&theme=radical&title_color=8E2DE2&text_color=fff)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bahrul-Rozak&theme=radical&title_color=8E2DE2&text_color=fff)
 
 <img src="https://github.com/saviomartin/saviomartin/blob/master/assets/repo.png?raw=true">
 
-![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=Cloud-Dark&repo=LMS-Delta&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2)
-![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=Cloud-Dark&repo=POS&show_icons=true&theme=tokyonight&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2)
 
-
-⭐️ From [Cloud Dark](https://github.com/Cloud-Dark)
+⭐️ From [Bahrul Rozak](https://github.com/Cloud-Dark)
