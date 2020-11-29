@@ -6,12 +6,12 @@
 
 - 🌱 I’m currently learning React, Nodejs
 - 💬 Ask me anything about how to mentor students, creating a portfolio site for you, or assistance with an application you are working on.
-- 📫 How to reach me: bahrulrozak@gmail.com
+- 📫 How to reach me: bahrulrozak1453@protonmail.com
 - ⚡ I was a learn : [Programming](https://www.youtube.com/channel/UCPMRfXjpTbX9eiimya1orrw)
 
 <img align="center" src="https://github.com/saviomartin/saviomartin/blob/master/assets/connect.png?raw=true"/>
 
-- <a href="https://www.instagram.com/rozak.py_/"><img src="https://img.shields.io/badge/%20@rozak.py_-DD2476?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+- <a href="https://www.instagram.com/rozak.py/"><img src="https://img.shields.io/badge/%20@rozak.py_-DD2476?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 - <a href="https://www.youtube.com/channel/UCPMRfXjpTbX9eiimya1orrw"><img src="https://img.shields.io/badge/%20@rozak.py_-DD2476?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 
 <img align="center" src="https://github.com/saviomartin/saviomartin/blob/master/assets/skills.png?raw=true">
