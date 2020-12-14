@@ -9,8 +9,6 @@
 - 📫 How to reach me: bahrulrozak1453@protonmail.com
 - ⚡ I was a learn : [Programming](https://www.youtube.com/channel/UCPMRfXjpTbX9eiimya1orrw)
 
-<img align="center" src="https://github.com/saviomartin/saviomartin/blob/master/assets/connect.png?raw=true"/>
-
 - <a href="https://www.instagram.com/rozak.py/"><img src="https://img.shields.io/badge/%20@rozak.py_-DD2476?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 - <a href="https://www.youtube.com/channel/UCPMRfXjpTbX9eiimya1orrw"><img src="https://img.shields.io/badge/%20@rozak.py_-DD2476?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 
