@@ -1,4 +1,5 @@
  
+### Assalamualaikum !
 ### <h1>Hello 👋, I'm Bahrul Rozak</h1>
 ### I'm a Frontend Web Developer. Welcome to my github page! <br>
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
