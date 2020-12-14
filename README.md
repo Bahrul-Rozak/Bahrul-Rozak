@@ -12,8 +12,6 @@
 - <a href="https://www.instagram.com/rozak.py/"><img src="https://img.shields.io/badge/%20@rozak.py_-DD2476?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 - <a href="https://www.youtube.com/channel/UCPMRfXjpTbX9eiimya1orrw"><img src="https://img.shields.io/badge/%20@rozak.py_-DD2476?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 
-<img align="center" src="https://github.com/saviomartin/saviomartin/blob/master/assets/skills.png?raw=true">
-
 ![HTML5](https://img.shields.io/badge/html%205-grey?style=for-the-badge&logo=html5&logoColor=white&labelColor=8E2DE2)
 ![CSS3](https://img.shields.io/badge/css%203-grey?style=for-the-badge&logo=css3&logoColor=white&labelColor=8E2DE2)
 ![Sass](https://img.shields.io/badge/sass-grey?style=for-the-badge&logo=sass&logoColor=white&labelColor=8E2DE2)
