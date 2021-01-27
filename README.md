@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning React, Nodejs
 - 💬 Ask me anything about how creating a portfolio site for you, or assistance with an application you are working on.
 - 📫 How to reach me: bahrulrozak1453@protonmail.com
-- ⚡ I was a learn : [Programming](https://www.youtube.com/channel/UCPMRfXjpTbX9eiimya1orrw)
+- ⚡ Fun Fact : I’m currently learning Frontend
 
 
 ![HTML5](https://img.shields.io/badge/html%205-grey?style=for-the-badge&logo=html5&logoColor=white&labelColor=8E2DE2)
