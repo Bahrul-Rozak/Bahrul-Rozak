@@ -1,12 +1,12 @@
  
 ### Assalamualaikum !
 ### <h1>Hello 👋, I'm Bahrul Rozak</h1>
-### I'm a Frontend Web Developer. Welcome to my github page! <br>
+### I'm a Junior Frontend Developer. Welcome to my github page! <br>
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
 
 - 🌱 I’m currently learning React, Nodejs
-- 💬 Ask me anything about how to mentor students, creating a portfolio site for you, or assistance with an application you are working on.
+- 💬 Ask me anything about how creating a portfolio site for you, or assistance with an application you are working on.
 - 📫 How to reach me: bahrulrozak1453@protonmail.com
 - ⚡ I was a learn : [Programming](https://www.youtube.com/channel/UCPMRfXjpTbX9eiimya1orrw)
 
