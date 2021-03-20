@@ -5,6 +5,7 @@
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="400"/>
 
 
+<br>
 - 🌱 I’m currently learning React, Nodejs
 - 💬 Ask me anything about how creating a portfolio site for you, or assistance with an application you are working on.
 - 📫 How to reach me: bahrulrozak003@gmail.com
