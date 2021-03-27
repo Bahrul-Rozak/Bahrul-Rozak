@@ -23,7 +23,7 @@
 ![git](https://img.shields.io/badge/-git-grey?style=for-the-badge&logo=git&logoColor=white&labelColor=ee1717)
 
 
-<img width="45.0%"  src="https://github-readme-stats.vercel.app/api?username=Bahrul-Rozak&title_color=fff&icon_color=fff&text_color=ffffff&bg_color=ee1717&hide=css%2Chtml&layout=compact"> 
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Bahrul-Rozak&title_color=fff&icon_color=fff&text_color=ffffff&bg_color=ee1717&hide=css%2Chtml&layout=compact"> 
 <img width="45.0%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bahrul-Rozak&&show_icons=true&title_color=fff&icon_color=fff&text_color=ffffff&bg_color=ee1717&hide=contribs"/>
 
 
