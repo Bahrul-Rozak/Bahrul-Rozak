@@ -23,7 +23,7 @@
 ![git](https://img.shields.io/badge/-git-grey?style=for-the-badge&logo=git&logoColor=white&labelColor=ee1717)
 
 
-<img width="46.2%"  src="https://github-readme-stats.vercel.app/api?username=Bahrul-Rozak&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=fff&icon_color=fff&text_color=fff&bg_color=0,000000,ee1717" alt="devSouvik's Github Stats"> 
+<img width="46.2%"  src="https://github-readme-stats.vercel.app/api?username=Bahrul-Rozak&title_color=79ff97&icon_color=63a2ff&text_color=ffffff&bg_color=151515&hide=css%2Chtml&layout=compact"> 
 <img width="20%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bahrul-Rozak&theme=radical&title_color=fff&text_color=fff&hide=contribs"/>
 
 
