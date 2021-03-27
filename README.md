@@ -31,6 +31,6 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Bahrul-Rozak&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=8E2DE2&icon_color=8E2DE2&text_color=8E2DE2&bg_color=0,000000,ee1717" alt="devSouvik's Github Stats">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bahrul-Rozak&theme=radical&title_color=ee1717&text_color=fff)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bahrul-Rozak&theme=radical&title_color=fff&text_color=fff)
 
 
