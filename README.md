@@ -24,6 +24,6 @@
 
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Bahrul-Rozak&title_color=fff&icon_color=ee1717&text_color=ee1717&bg_color=22272E&hide=css%2Chtml&layout=compact"> 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bahrul-Rozak&&show_icons=true&title_color=ee1717&icon_color=ee1717&text_color=ffffff&bg_color=22272E&hide=contribs"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bahrul-Rozak&&show_icons=true&title_color=ee1717&icon_color=ee1717&text_color=ee1717&bg_color=22272E&hide=contribs"/>
 
 
