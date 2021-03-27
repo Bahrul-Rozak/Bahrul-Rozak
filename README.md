@@ -6,10 +6,10 @@
 
 
 <br>
-- 🌱 I’m currently learning React, Nodejs
-- 💬 Ask me anything about how creating a portfolio site for you, or assistance with an application you are working on.
-- 📫 How to reach me: bahrulrozak003@gmail.com
-- ⚡ Fun Fact : I’m currently learning Fullstack
+- 🌱 I’m currently learning React, Nodejs <br> 
+- 💬 Ask me anything about how creating a portfolio site for you, or assistance with an application you are working on. <br>
+- 📫 How to reach me: bahrulrozak003@gmail.com <br>
+- ⚡ Fun Fact : I’m currently learning Fullstack <br>
 
 
 ![HTML5](https://img.shields.io/badge/html%205-grey?style=for-the-badge&logo=html5&logoColor=white&labelColor=8E2DE2)
