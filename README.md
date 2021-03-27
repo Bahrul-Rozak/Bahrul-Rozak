@@ -2,7 +2,7 @@
 ### Assalamualaikum !
 ### <h1>Hello 👋, I'm Bahrul Rozak</h1>
 ### I'm a Junior Frontend Developer. Welcome to my github page! <br>
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="200"/>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="250"/>
 
 
 <br>
