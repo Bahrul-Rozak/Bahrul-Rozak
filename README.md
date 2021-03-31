@@ -25,6 +25,7 @@
 Tools
 <br>
 ![ubuntu](https://img.shields.io/badge/-ubuntu-grey?style=for-the-badge&logo=ubuntu&logoColor=white&labelColor=ee1717)
+![visualstudiocode](https://img.shields.io/badge/-visualstudiocode-grey?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=ee1717)
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Bahrul-Rozak&title_color=fff&icon_color=fff&text_color=fff&bg_color=3D3B3B&hide=css%2Chtml&layout=compact"> 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bahrul-Rozak&&show_icons=true&title_color=fff&icon_color=fff&text_color=fff&bg_color=3D3B3B&hide=contribs"/>
