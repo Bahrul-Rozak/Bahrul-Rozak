@@ -23,6 +23,7 @@
 ![git](https://img.shields.io/badge/-git-grey?style=for-the-badge&logo=git&logoColor=white&labelColor=ee1717)
 <br>
 Tools
+<br>
 ![ubuntu](https://img.shields.io/badge/-ubuntu-grey?style=for-the-badge&logo=ubuntu&logoColor=white&labelColor=ee1717)
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Bahrul-Rozak&title_color=fff&icon_color=fff&text_color=fff&bg_color=3D3B3B&hide=css%2Chtml&layout=compact"> 
