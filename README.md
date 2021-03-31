@@ -18,12 +18,10 @@ Programming Language
 ![JavaScript](https://img.shields.io/badge/-JavaScript-grey?style=for-the-badge&logo=javascript&logoColor=white&labelColor=ee1717)
 ![python](https://img.shields.io/badge/-python-grey?style=for-the-badge&logo=python&logoColor=white&labelColor=ee1717)
 <br>
-<br>
 Framework & Library
 <br>
 ![bootstrap](https://img.shields.io/badge/-bootstrap-grey?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=ee1717)
 ![react](https://img.shields.io/badge/-react-grey?style=for-the-badge&logo=react&logoColor=white&labelColor=ee1717)
-<br>
 <br>
 Database
 <br>
