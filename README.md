@@ -16,16 +16,14 @@
 ![bootstrap](https://img.shields.io/badge/-bootstrap-grey?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=ee1717)
 <br>
 ![node](https://img.shields.io/badge/-node-grey?style=for-the-badge&logo=node.js&logoColor=white&labelColor=ee1717)
-![git](https://img.shields.io/badge/-git-grey?style=for-the-badge&logo=git&logoColor=white&labelColor=ee1717)
 ![github](https://img.shields.io/badge/-github-grey?style=for-the-badge&logo=github&logoColor=white&labelColor=ee1717)
 ![python](https://img.shields.io/badge/-python-grey?style=for-the-badge&logo=python&logoColor=white&labelColor=ee1717)
-![jquery](https://img.shields.io/badge/-jquery-grey?style=for-the-badge&logo=jquery&logoColor=white&labelColor=ee1717)
 ![git](https://img.shields.io/badge/-git-grey?style=for-the-badge&logo=git&logoColor=white&labelColor=ee1717)
 <br>
 Tools
 <br>
 ![ubuntu](https://img.shields.io/badge/-ubuntu-grey?style=for-the-badge&logo=ubuntu&logoColor=white&labelColor=ee1717)
-![visualstudiocode](https://img.shields.io/badge/-visualstudiocode-grey?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=ee1717)
+![git](https://img.shields.io/badge/-git-grey?style=for-the-badge&logo=git&logoColor=white&labelColor=ee1717)
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Bahrul-Rozak&title_color=fff&icon_color=fff&text_color=fff&bg_color=3D3B3B&hide=css%2Chtml&layout=compact"> 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bahrul-Rozak&&show_icons=true&title_color=fff&icon_color=fff&text_color=fff&bg_color=3D3B3B&hide=contribs"/>
