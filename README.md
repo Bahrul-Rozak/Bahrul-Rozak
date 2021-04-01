@@ -30,12 +30,9 @@
 ![node](https://img.shields.io/badge/-node-grey?style=for-the-badge&logo=node.js&logoColor=white&labelColor=ee1717)
 ![trello](https://img.shields.io/badge/-trello-grey?style=for-the-badge&logo=trello&logoColor=white&labelColor=ee1717)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Bahrul-Rozak&title_color=fff&icon_color=fff&text_color=fff&bg_color=3D3B3B&hide=css%2Chtml&layout=compact"> 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bahrul-Rozak&&show_icons=true&title_color=fff&icon_color=fff&text_color=fff&bg_color=3D3B3B&hide=contribs"/>
-
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bahrul-Rozak&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bahrul-Rozak&exclude_repo=KNN-Image-Classification&show_icons=true&title_color=fff&icon_color=fff&text_color=fff&bg_color=3D3B3B&hide=contribs"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bahrul-Rozak&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
 
 
