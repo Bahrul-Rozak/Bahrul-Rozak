@@ -4,8 +4,6 @@
 ### I'm a Junior Frontend Developer. Welcome to my github page! <br>
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/rozak.js/)
 <br>
-<img align="center" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="250"/>
-
  🌱 I’m currently learning React, Nodejs <br> 
  💬 Ask me anything about how creating a portfolio site for you, or assistance with an application you are working on. <br>
  📫 How to reach me: bahrulrozak003@gmail.com <br>
