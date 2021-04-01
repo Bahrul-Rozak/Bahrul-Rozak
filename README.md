@@ -3,7 +3,6 @@
 ### <h1>Hello 👋, I'm Bahrul Rozak</h1>
 ### I'm a Junior Frontend Developer. Welcome to my github page! <br>
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/rozak.js/)
-[![Article Badge](https://img.shields.io/badge/-Article-e4405f?style=flat-square&logo=Article&logoColor=white)](https://instagram.com/rozak.js/)
 <br>
  🌱 I’m currently learning React, Nodejs <br> 
  💬 Ask me anything about how creating a portfolio site for you, or assistance with an application you are working on. <br>
