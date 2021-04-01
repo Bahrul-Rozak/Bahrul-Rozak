@@ -33,6 +33,4 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bahrul-Rozak&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
 
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
-
+<p align='center'><img src='https://visitor-badge.glitch.me/badge?page_id=page.id'></p>
