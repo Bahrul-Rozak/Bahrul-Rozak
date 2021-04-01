@@ -33,6 +33,7 @@
 <br>
 ![ubuntu](https://img.shields.io/badge/-ubuntu-grey?style=for-the-badge&logo=ubuntu&logoColor=white&labelColor=ee1717)
 ![git](https://img.shields.io/badge/-git-grey?style=for-the-badge&logo=git&logoColor=white&labelColor=ee1717)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 ![node](https://img.shields.io/badge/-node-grey?style=for-the-badge&logo=node.js&logoColor=white&labelColor=ee1717)
 ![trello](https://img.shields.io/badge/-trello-grey?style=for-the-badge&logo=trello&logoColor=white&labelColor=ee1717)
 
