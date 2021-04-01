@@ -39,5 +39,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Bahrul-Rozak&title_color=fff&icon_color=fff&text_color=fff&bg_color=3D3B3B&hide=css%2Chtml&layout=compact"> 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bahrul-Rozak&&show_icons=true&title_color=fff&icon_color=fff&text_color=fff&bg_color=3D3B3B&hide=contribs"/>
 
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bahrul-Rozak&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
