@@ -35,7 +35,7 @@
 
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bahrul-Rozak&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bahrul-Rozak&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bahrul-Rozak&exclude_repo=KNN-Image-Classification&show_icons=true&title_color=fff&icon_color=fff&text_color=fff&bg_color=3D3B3B&hide=contribs"/>
 </p>
 
 
