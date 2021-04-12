@@ -19,4 +19,10 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bahrul-Rozak&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/rozak.js" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="rozak.js" height="30" width="40" /></a>
+<a href="/https://bahrul-rozak.blogspot.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rss.svg" alt="https://bahrul-rozak.blogspot.com/" height="30" width="40" /></a>
+</p>
+
 <p align='center'><img src='https://visitor-badge.glitch.me/badge?page_id=page.id'></p>
