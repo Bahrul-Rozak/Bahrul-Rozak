@@ -24,4 +24,4 @@
 <a href="/https://bahrul-rozak.blogspot.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rss.svg" alt="https://bahrul-rozak.blogspot.com/" height="30" width="40" /></a>
 </p>
 
-<p align='center'><img src='https://visitor-badge.glitch.me/badge?page_id=page.id'></p>
+<p align='center'><img src='https://visito-badge.glitch.me/badge?page_id=page.id'></p>
