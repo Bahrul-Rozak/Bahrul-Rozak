@@ -1,8 +1,7 @@
- 
+<img  height="180em" src="https://github.com/Bahrul-Rozak/Bahrul-Rozak/blob/master/image/Header.jpg"/>
 ### Assalamualaikum !
 ### <h1>Hello 👋, I'm Bahrul Rozak</h1>
 ### I'm a Junior Frontend Developer. Welcome to my github page! <br>
-<img  height="180em" src="https://github.com/Bahrul-Rozak/Bahrul-Rozak/blob/master/DinoDark.gif"/>
 <br>
  🌱 I’m currently learning React, Nodejs <br> 
  💬 Ask me anything about how creating a portfolio site for you, or assistance with an application you are working on. <br>
