@@ -18,6 +18,7 @@
 </p>
 
 Certificates <br>
+- [Azure CLoud](https://drive.google.com/file/d/1ca_L0It6vwdw47btsFrL5c6laL1b_Rt_/view?usp=sharing) <br>
 - [KOMINFO](https://drive.google.com/file/d/1LqVXsn9zeqwBDxJwW2dyIXrjwg3aFwtx/view?usp=sharing) <br>
 - [Web Dasar](https://drive.google.com/file/d/1HuZQ1dbKmzhoVF6fAiQFm2Wc1PVmRmVK/view?usp=sharing)
 
