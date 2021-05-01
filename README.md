@@ -18,7 +18,7 @@
 </p>
 
 Education <br>
-- UHAMKA University 2019 - Now
+- UHAMKA University (2019 - Now)
 
 
 Certificates <br>
