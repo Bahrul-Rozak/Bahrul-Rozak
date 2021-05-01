@@ -17,11 +17,16 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bahrul-Rozak&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
 
+Education <br>
+- UHAMKA University 2019 - Now
+
+
 Certificates <br>
 - [Azure CLoud](https://drive.google.com/file/d/1ca_L0It6vwdw47btsFrL5c6laL1b_Rt_/view?usp=sharing) <br>
 - [KOMINFO](https://drive.google.com/file/d/1LqVXsn9zeqwBDxJwW2dyIXrjwg3aFwtx/view?usp=sharing) <br>
 - [Pemateri](https://drive.google.com/file/d/11sVOWXoJy4vCuU0ES_WDnxDt2IQ01kxC/view?usp=sharing) <br>
 - [Web Dasar](https://drive.google.com/file/d/1HuZQ1dbKmzhoVF6fAiQFm2Wc1PVmRmVK/view?usp=sharing) 
+
 
 
 <p align='center'><img src='https://visitor-badge.glitch.me/badge?page_id=page.id'></p>
