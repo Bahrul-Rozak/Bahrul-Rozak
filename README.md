@@ -20,6 +20,9 @@
 Education <br>
 - UHAMKA University (2019 - Now)
 
+Social Activity
+- Belajar [Node Js](https://github.com/Bahrul-Rozak/Belajar-Node-JS)
+
 
 Certificates <br>
 - [Azure CLoud](https://drive.google.com/file/d/1ca_L0It6vwdw47btsFrL5c6laL1b_Rt_/view?usp=sharing) <br>
