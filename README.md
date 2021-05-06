@@ -22,6 +22,7 @@ Education <br>
 
 Social Activity
 - Belajar [Node Js](https://github.com/Bahrul-Rozak/Belajar-Node-JS)
+- Join Our [Community](https://t.me/webdevelopercommunity)
 
 
 Certificates <br>
