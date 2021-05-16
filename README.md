@@ -33,8 +33,5 @@ Certificates <br>
 - [Web Dasar](https://drive.google.com/file/d/1HuZQ1dbKmzhoVF6fAiQFm2Wc1PVmRmVK/view?usp=sharing) 
 
 
-
-<p align='center'><img src='https://visitor-badge.glitch.me/badge?page_id=page.id'></p>
-
 ### Ambassador
 Start Developer blog with [Hashnode](https://hashnode.com/@Rozak1453/joinme)
