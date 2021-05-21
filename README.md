@@ -1,4 +1,4 @@
-![](https://github.com/Bahrul-Rozak/Bahrul-Rozak/blob/master/image/Header.png) <br>
+![](https://github.com/Bahrul-Rozak/Bahrul-Rozak/blob/master/Hero.png) <br>
 ### Assalamualaikum !
 ### <h1>Hello 👋, I'm Bahrul Rozak</h1>
 ### I'm a Junior Frontend Developer. Welcome to my github page! <br>
