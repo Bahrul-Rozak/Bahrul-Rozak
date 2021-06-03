@@ -28,7 +28,6 @@ Project
 
 Social Activity
 - Belajar [Node Js](https://github.com/Bahrul-Rozak/Belajar-Node-JS)
-- Join Our [Community](https://t.me/webdevelopercommunity)
 - Coding di [Instagram](https://www.instagram.com/rozak.js/)
 
 
