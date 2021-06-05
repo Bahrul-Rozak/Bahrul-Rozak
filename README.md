@@ -41,4 +41,4 @@ Certificates <br>
 ### Ambassador
 Start Developer blog with [Hashnode](https://hashnode.com/@Rozak1453/joinme)
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=Bahrul-Rozak.visitor-badge)
+<p align='center'><img src='https://visitor-badge.laobi.icu/badge?page_id=saviomartin'></p>
