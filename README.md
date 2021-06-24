@@ -29,6 +29,7 @@ Project
 
 Social Activity
 - Belajar [Node Js](https://github.com/Bahrul-Rozak/Belajar-Node-JS)
+- Belajar [Command Line] (https://bahrul-rozak.github.io/Petualangan-Command-Line/)
 - Coding di [Instagram](https://www.instagram.com/rozak.js/)
 
 
