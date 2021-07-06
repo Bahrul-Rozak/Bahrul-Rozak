@@ -26,6 +26,8 @@ Project
 - [Zak Travel](https://bahrul-rozak.github.io/Home-zakTravel/)
 - [Zak Bookshelf APP](https://bahrul-rozak.github.io/Zak-Bookshelf-APP/)
 
+Project Team
+- [UI/UX](https://github.com/Bahrul-Rozak/Healthips_App_Prototype)
 
 Social Activity
 - Belajar [Node Js](https://github.com/Bahrul-Rozak/Belajar-Node-JS)
