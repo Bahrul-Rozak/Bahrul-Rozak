@@ -36,6 +36,7 @@ Social Activity
 
 
 Certificates <br>
+- [UI/UX Competition](https://github.com/Bahrul-Rozak/Healthips_App_Prototype/blob/main/4-01.jpg)
 
 
 ### Ambassador
