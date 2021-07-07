@@ -29,17 +29,18 @@ Project
 Project Team
 - [UI/UX](https://github.com/Bahrul-Rozak/Healthips_App_Prototype)
 
+Certificates <br>
+- [UI/UX Competition](https://github.com/Bahrul-Rozak/Healthips_App_Prototype/blob/main/4-01.jpg)
+
 Social Activity
 - Belajar [Node Js](https://github.com/Bahrul-Rozak/Belajar-Node-JS)
 - Belajar [Command Line](https://bahrul-rozak.github.io/Petualangan-Command-Line/)
 - Coding di [Instagram](https://www.instagram.com/rozak.js/)
 
 
-Certificates <br>
-- [UI/UX Competition](https://github.com/Bahrul-Rozak/Healthips_App_Prototype/blob/main/4-01.jpg)
 
 
-### Ambassador
+
 Start Developer blog with [Hashnode](https://hashnode.com/@Rozak1453/joinme)
 
 
