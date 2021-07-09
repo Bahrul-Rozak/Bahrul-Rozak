@@ -1,4 +1,5 @@
 <!-- ![](https://github.com/Bahrul-Rozak/Bahrul-Rozak/blob/master/Header.png) <br> -->
+![Visitor Count](https://profile-counter.glitch.me/{Bahrul-Rozak}/count.svg)
 ### Assalamualaikum !
 ### <h1>Hello 👋, I'm Bahrul Rozak</h1>
 ### I'm a Junior Frontend Developer. Welcome to my github page! <br>
