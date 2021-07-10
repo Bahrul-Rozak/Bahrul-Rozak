@@ -34,6 +34,7 @@ Project
 - [Zak Code Editor](https://bahrul-rozak.github.io/Zak-Live-Code-Editor/)
 - [Zak Travel](https://bahrul-rozak.github.io/Home-zakTravel/)
 - [Zak Bookshelf APP](https://bahrul-rozak.github.io/Zak-Bookshelf-APP/)
+- [Zak Price](https://bahrul-rozak.github.io/Zak-Price/)
 
 Project Team
 - [UI/UX](https://github.com/Bahrul-Rozak/Healthips_App_Prototype)
