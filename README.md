@@ -4,7 +4,7 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Bahrul-Rozak.Bahrul-Rozak)
 
 </p>
-<div size='20px'> Hi! My name is Bahrul Rozak. Thank You for taking the time to view my GitHub Profile :smile: 
+<div size='20px'> Hi!!! My name is Bahrul Rozak. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
 
 <h2> About Me </h2>
