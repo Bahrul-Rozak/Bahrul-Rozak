@@ -12,7 +12,7 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🔭 I’m currently working on React and Node Js
+- 🔭 I’m currently working on My Personal Project
 
 - 🌱 I’m currently learning Fullstack Web Dev 
 
