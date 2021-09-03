@@ -21,6 +21,7 @@
 | Zak Rest API               | [Visit](https://github.com/Bahrul-Rozak/Zak-Rest-API)                |
 | Zak To do App              | [Visit](https://github.com/Bahrul-Rozak/Zak-Todo-Apps)               |
 | Zak Portfolio              | [Visit](https://zak-portfolio.netlify.app/)                          |
+| Zak Bot                    | [Visit](https://bahrul-rozak.github.io/Zak-Bot/)                     |
 | CRUD GUI Simple Python     | [Visit](https://github.com/Bahrul-Rozak/CRUD-GUI-Simple-With-Python) |
 | Healthips Prototype        | [Visit](https://github.com/Bahrul-Rozak/Healthips_App_Prototype)     |
 | Covid 19 Extension Chrome  | [Visit](https://github.com/Bahrul-Rozak/Covid19-Extension-for-Chrome)|
