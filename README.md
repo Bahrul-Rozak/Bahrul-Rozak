@@ -28,6 +28,7 @@
 | Bahrul Rozak               | [Visit](https://bahrul-rozak.github.io/)                             |
 | Kuy Explore                | [Visit](https://bahrul-rozak.github.io/Kuy-Explore/)                 |
 | Kuy Rent                   | [Visit](https://bahrul-rozak.github.io/Kuy-Rent/)                    |
+| Media Coding               | [Visit](https://bahrul-rozak.github.io/Media-Coding-App.github.io/)  |
 
 | Documentation              | Link |
 | -----  | --- |
