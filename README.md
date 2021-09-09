@@ -1,3 +1,7 @@
+<div>
+    <img src="https://activity-graph.herokuapp.com/graph?username=Bahrul-Rozak&theme=xcode&area=true" />
+    
+</div>
 Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px>
 <br>
 <!-- ![](https://github.com/Bahrul-Rozak/Bahrul-Rozak/blob/master/Hero.png)  -->
