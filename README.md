@@ -1,5 +1,14 @@
-Hello Fellow < Developers/ >!
-<div size='20px'> Hi! My name is Bahrul Rozak. Thank You for taking the time to view my GitHub Profile :smile:</div>
+Hello Fellow < Developers/ >! 
+<br>
+Hi! My name is Bahrul Rozak. Thank You for taking the time to view my GitHub Profile :smile:
+<br>
+<br>
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-white?style=plastic&logo=Gmail&link=mailto:@gmail.com)](mailto:@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=plastic&logo=Linkedin&link=https://id.linkedin.com/in/bahrul-rozak-a89317212)](https://id.linkedin.com/in/bahrul-rozak-a89317212) 
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-white?style=plastic&logo=instagram&link=https://www.instagram.com/rozak.js/)](https://www.instagram.com/rozak.js/)
+[![Hashnode Badge](https://img.shields.io/badge/-Hashnode-blue?style=plastic&logo=Hashnode&link=https://hashnode.com/@Rozak1453)](https://hashnode.com/@Rozak1453)
+[![Protonmail Badge](https://img.shields.io/badge/-Protonmail-white?style=plastic&logo=Protonmail&link=mailto:@protonmail.com)](mailto:@protonmail.com)
+[![CV Badge](https://img.shields.io/badge/-DownloadCV-white?style=plastic&logo=CV&link=https://bahrul-rozak.github.io/CV/images/CV-Bahrul-Rozak.pdf)](https://bahrul-rozak.github.io/CV/images/CV-Bahrul-Rozak.pdf)
 
 
 <br>
@@ -18,14 +27,9 @@ Hello Fellow < Developers/ >!
 
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Bahrul-Rozak)
-<br>
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-white?style=plastic&logo=Gmail&link=mailto:@gmail.com)](mailto:@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=plastic&logo=Linkedin&link=https://id.linkedin.com/in/bahrul-rozak-a89317212)](https://id.linkedin.com/in/bahrul-rozak-a89317212) 
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-white?style=plastic&logo=instagram&link=https://www.instagram.com/rozak.js/)](https://www.instagram.com/rozak.js/)
-[![Hashnode Badge](https://img.shields.io/badge/-Hashnode-blue?style=plastic&logo=Hashnode&link=https://hashnode.com/@Rozak1453)](https://hashnode.com/@Rozak1453)
-<br>
+<!-- <br>
 [Download My CV](https://bahrul-rozak.github.io/CV/images/CV-Bahrul-Rozak.pdf)
-
+ -->
 
 
 
