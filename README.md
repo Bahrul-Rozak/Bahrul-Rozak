@@ -12,7 +12,7 @@ Hi! My name is Bahrul Rozak. Thank You for taking the time to view my GitHub Pro
 [![Protonmail Badge](https://img.shields.io/badge/-Protonmail-white?style=plastic&logo=Protonmail&link=mailto:@protonmail.com)](mailto:@protonmail.com)
 [![Gitlab Badge](https://img.shields.io/badge/-Gitlab-white?style=plastic&logo=Gitlab&link=https://gitlab.com/bahrulrozak1453)](https://gitlab.com/bahrulrozak1453)
 [![Hashnode Badge](https://img.shields.io/badge/-Hashnode-blue?style=plastic&logo=Hashnode&link=https://hashnode.com/@Rozak1453)](https://hashnode.com/@Rozak1453)
-
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=plastic&logo=Telegram&link=https://t.me/zakcodes)](https://t.me/zakcodes)
 <div>
     <img src="https://activity-graph.herokuapp.com/graph?username=Bahrul-Rozak&theme=xcode&area=true" />    
 </div>
