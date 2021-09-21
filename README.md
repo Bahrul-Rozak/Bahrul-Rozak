@@ -2,8 +2,6 @@ Hello Fellow < Developers/ >!
 <br>
 Hi! My name is Bahrul Rozak. Thank You for taking the time to view my GitHub Profile :smile:
 <br>
-Increase 1% every day better
-<br>
 [![CV Badge](https://img.shields.io/badge/-DownloadCV-white?style=plastic&logo=CV&link=https://bahrul-rozak.github.io/CV/images/CV-Bahrul-Rozak.pdf)](https://bahrul-rozak.github.io/CV/images/CV-Bahrul-Rozak.pdf)
 <br>
 ## Social
