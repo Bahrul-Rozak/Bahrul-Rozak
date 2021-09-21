@@ -16,6 +16,23 @@ Hi! My name is Bahrul Rozak. Thank You for taking the time to view my GitHub Pro
     <img src="https://activity-graph.herokuapp.com/graph?username=Bahrul-Rozak&theme=xcode&area=true" />    
 </div>
 <center>Note: Increase 1% every day better</center>
+<details>
+  <summary>:zap: GitHub Stats</summary>
+ 
+## Stat Github
+<p align="center">
+  <a>
+    <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Bahrul-Rozak&theme=dark&hide_border=true" alt="Bahrul-Rozak"/>
+  </a>
+</p>
+    
+<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Bahrul-Rozak&row=2&column=8&margin-w=15&margin-h=15&theme=dracula&no-bg=true&no-frame=true" alt="Bahrul-Rozak" /></a></p>
+ 
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=Bahrul-Rozak&theme=cobalt&show_icons=true)](https://github.com/Bahrul-Rozak)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bahrul-Rozak&hide=TeX&layout=compact&theme=cobalt)
+    
+</details>
+
 
 <h2> Curently Working With </h2>
 
