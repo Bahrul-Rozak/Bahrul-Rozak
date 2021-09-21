@@ -15,6 +15,7 @@ Hi! My name is Bahrul Rozak. Thank You for taking the time to view my GitHub Pro
 <div>
     <img src="https://activity-graph.herokuapp.com/graph?username=Bahrul-Rozak&theme=xcode&area=true" />    
 </div>
+<center>Note: Increase 1% every day better</center>
 
 <h2> Curently Working With </h2>
 
