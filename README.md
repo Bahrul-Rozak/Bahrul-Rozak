@@ -31,21 +31,17 @@ Hi! My name is Bahrul Rozak. Thank You for taking the time to view my GitHub Pro
 <div>
     <img src="https://activity-graph.herokuapp.com/graph?username=Bahrul-Rozak&theme=xcode&area=true" />    
 </div>
-<center>Note: Increase 1% every day better</center>
-
-
+<center>Note: Increase 1% every day better</center> <br>
 
 <h3> Curently Working With </h3>
 
 ![Metrics](https://metrics.lecoq.io/Bahrul-Rozak?template=terminal&base.header=0&base.activity=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&config.timezone=America%2FToronto)
 
-
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Bahrul-Rozak)
-<br>
+
 <!-- [Download My CV](https://bahrul-rozak.github.io/CV/images/CV-Bahrul-Rozak.pdf) -->
-
-![](http://ForTheBadge.com/images/badges/built-with-love.svg) 
-
-
+<p align="center">
+built with ❤️
+</p>
 
 
