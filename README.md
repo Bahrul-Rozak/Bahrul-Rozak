@@ -15,7 +15,7 @@ Hi! My name is Bahrul Rozak. Thank You for taking the time to view my GitHub Pro
 <details>
   <summary>:zap: GitHub Stats</summary>
  
-## Stat Github
+## Statistic Github
 <p align="center">
   <a>
     <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Bahrul-Rozak&theme=dark&hide_border=true" alt="Bahrul-Rozak"/>
