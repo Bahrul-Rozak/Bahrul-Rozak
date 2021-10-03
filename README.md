@@ -12,7 +12,7 @@ Hi! My name is Bahrul Rozak. Thank You for taking the time to view my GitHub Pro
 [![Gitlab Badge](https://img.shields.io/badge/-Gitlab-white?style=plastic&logo=Gitlab&link=https://gitlab.com/bahrulrozak1453)](https://gitlab.com/bahrulrozak1453)
 [![Hashnode Badge](https://img.shields.io/badge/-Hashnode-white?style=plastic&logo=Hashnode&link=https://hashnode.com/@Rozak1453)](https://hashnode.com/@Rozak1453)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-white?style=plastic&logo=Telegram&link=https://t.me/zakcodes)](https://t.me/zakcodes)
-[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-white?style=plastic&logo=Whatsapp&link=https://wa.me/08123456789)](https://wa.me/08123456789)
+[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-white?style=plastic&logo=Whatsapp&link=#)](#)
 <details>
   <summary>:zap: GitHub Stats</summary>
  
