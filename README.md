@@ -53,6 +53,7 @@ Hi! My name is Bahrul Rozak. Thank You for taking the time to view my GitHub Pro
 | Bahrul Rozak               | [Visit](https://bahrul-rozak.github.io/)                             |
 | Kuy Explore                | [Visit](https://bahrul-rozak.github.io/Kuy-Explore/)                 |
 | Kuy Rent                   | [Visit](https://bahrul-rozak.github.io/Kuy-Rent/)                    |
+| Inventory Apps             | [Visit](https://github.com/Bahrul-Rozak/Inventory-Apps)              |
 
 | Documentation              | Link |
 | -----  | --- |
