@@ -54,7 +54,8 @@ Hi! My name is Bahrul Rozak. Thank You for taking the time to view my GitHub Pro
 | Kuy Explore                | [Visit](https://bahrul-rozak.github.io/Kuy-Explore/)                 |
 | Kuy Rent                   | [Visit](https://bahrul-rozak.github.io/Kuy-Rent/)                    |
 | Inventory Apps             | [Visit](https://github.com/Bahrul-Rozak/Inventory-Apps)              |
-| UHAMKA Frontend with Vue   | [Visit](https://brave-leavitt-be7271.netlify.app/)                   |           
+| UHAMKA Frontend with Vue   | [Visit](https://brave-leavitt-be7271.netlify.app/)                   |  
+| Shoope Clone               | [Visi](https://admiring-visvesvaraya-430e4a.netlify.app/)            |
 
 | Documentation              | Link |
 | -----  | --- |
