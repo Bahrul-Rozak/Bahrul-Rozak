@@ -18,23 +18,23 @@ Hi! My name is Bahrul Rozak. Thank You for taking the time to view my GitHub Pro
   <summary>:zap: GitHub Stats</summary>
  
 ## Statistic Github
-<p align="center">
+<!-- <p align="center">
   <a>
     <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Bahrul-Rozak&theme=dark&hide_border=true" alt="Bahrul-Rozak"/>
   </a>
-</p>
+</p> -->
     
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Bahrul-Rozak&row=2&column=8&margin-w=15&margin-h=15&theme=dracula&no-bg=true&no-frame=true" alt="Bahrul-Rozak" /></a></p>
+<!-- <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Bahrul-Rozak&row=2&column=8&margin-w=15&margin-h=15&theme=dracula&no-bg=true&no-frame=true" alt="Bahrul-Rozak" /></a></p> -->
  
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=Bahrul-Rozak&theme=cobalt&show_icons=true)](https://github.com/Bahrul-Rozak)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bahrul-Rozak&hide=TeX&layout=compact&theme=cobalt)
     
 </details>
-<div>
+<!-- <div>
     <img src="https://activity-graph.herokuapp.com/graph?username=Bahrul-Rozak&theme=xcode&area=true" />    
 </div>
 <center>Note: Increase 1% every day better</center> <br>
-
+ -->
 <h3> Curently Working With </h3>
 
 ![Metrics](https://metrics.lecoq.io/Bahrul-Rozak?template=terminal&base.header=0&base.activity=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&config.timezone=America%2FToronto)
