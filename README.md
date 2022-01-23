@@ -15,7 +15,7 @@ Hi! My name is Bahrul Rozak. Thank You for taking the time to view my GitHub Pro
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-white?style=plastic&logo=Telegram&link=https://t.me/zakcodes)](https://t.me/zakcodes)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-white?style=plastic&logo=Whatsapp&link=#)](#)
 <details>
-  <summary>:zap: GitHub Stats</summary>
+  <summary>:zap: GitHub Statistic</summary>
  
 ## Statistic Github
 <!-- <p align="center">
