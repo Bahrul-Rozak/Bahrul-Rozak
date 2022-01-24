@@ -1,4 +1,4 @@
-Hello Fellow < Developers/ >! 
+Hello Fellow < Developers/ >!!
 <br>
 Hi! My name is Bahrul Rozak. Thank You for taking the time to view my GitHub Profile :smile:
 <br>
@@ -15,7 +15,7 @@ Hi! My name is Bahrul Rozak. Thank You for taking the time to view my GitHub Pro
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-white?style=plastic&logo=Telegram&link=https://t.me/zakcodes)](https://t.me/zakcodes)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-white?style=plastic&logo=Whatsapp&link=#)](#)
 <details>
-  <summary>:zap: GitHub Statistic</summary>
+  <summary>:zap: GitHub Statistic!</summary>
  
 ## Statistic Github
 <!-- <p align="center">
@@ -56,7 +56,7 @@ Hi! My name is Bahrul Rozak. Thank You for taking the time to view my GitHub Pro
 | Kuy Rent                   | [Visit](https://bahrul-rozak.github.io/Kuy-Rent/)                    |
 | Inventory Apps             | [Visit](https://github.com/Bahrul-Rozak/Inventory-Apps)              |
 | UHAMKA Frontend with Vue   | [Visit](https://brave-leavitt-be7271.netlify.app/)                   |  
-| Shoope Clone               | [Visit](https://admiring-visvesvaraya-430e4a.netlify.app/)            |
+| Shoope Clone               | [Visit](https://admiring-visvesvaraya-430e4a.netlify.app/)           |
 
 
 | Documentation              | Link |
