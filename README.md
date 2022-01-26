@@ -41,9 +41,9 @@ Hi! My name is Bahrul Rozak. Thank You for taking the time to view my GitHub Pro
 
 | Name of Project  | Link |
 | -----  | --- |
-| Healthips App Landing Page | [Visit](https://bahrul-rozak.github.io/Healthips-App-Landing-Page/)  |
-| Zak Bookshelf App          | [Visit](https://bahrul-rozak.github.io/Zak-Bookshelf-APP/)           |
-| Zak Live Code Editor       | [Visit](https://bahrul-rozak.github.io/Zak-Live-Code-Editor/)        |
+| Healthips App Landing Page | [Visit Now](https://bahrul-rozak.github.io/Healthips-App-Landing-Page/)  |
+| Zak Bookshelf App          | [Visit Now](https://bahrul-rozak.github.io/Zak-Bookshelf-APP/)           |
+| Zak Live Code Editor       | [Visit Now](https://bahrul-rozak.github.io/Zak-Live-Code-Editor/)        |
 | Zak Travel                 | [Visit](https://bahrul-rozak.github.io/Home-zakTravel/)              |
 | Zak Rest API               | [Visit](https://github.com/Bahrul-Rozak/Zak-Rest-API)                |
 | Zak To do App              | [Visit](https://github.com/Bahrul-Rozak/Zak-Todo-Apps)               |
