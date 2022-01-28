@@ -39,7 +39,7 @@ Hi! My name is Bahrul Rozak. Thank You for taking the time to view my GitHub Pro
 
 ![Metrics](https://metrics.lecoq.io/Bahrul-Rozak?template=terminal&base.header=0&base.activity=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&config.timezone=America%2FToronto)
 
-| Name of Project  | Link |
+<!-- | Name of Project  | Link |
 | -----  | --- |
 | Healthips App Landing Page | [Visit Now](https://bahrul-rozak.github.io/Healthips-App-Landing-Page/)  |
 | Zak Bookshelf App          | [Visit Now](https://bahrul-rozak.github.io/Zak-Bookshelf-APP/)           |
@@ -65,7 +65,7 @@ Hi! My name is Bahrul Rozak. Thank You for taking the time to view my GitHub Pro
 | Petualangan CLI            | [Visit](https://bahrul-rozak.github.io/Petualangan-Command-Line/)  |
 | Belajar NodeJs             | [Visit](https://github.com/Bahrul-Rozak/Belajar-Node-JS)           |
 | Install MySQL Ubuntu       | [Visit](https://github.com/Bahrul-Rozak/Install-MY-SQL-Ubuntu)     |
-| Dakwah Programmer          | [Visit](https://dakwah-programmer.vercel.app/)                     |
+| Dakwah Programmer          | [Visit](https://dakwah-programmer.vercel.app/)                     | -->
 
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Bahrul-Rozak)
