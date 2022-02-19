@@ -1,15 +1,17 @@
 ![](https://github.com/Bahrul-Rozak/Bahrul-Rozak/blob/master/hai_v.png)
 Hello Fellow < Developers/ >!!
 <br>
-Hi! My name is Bahrul Rozak. Thank You for taking the time to view my GitHub Profile :smile:
+Hi! My name is Bahrul Rozak. Thank You for taking the time to view my GitHub [Profile](https://zak-portfolio.netlify.app/) :smile:
+<br>
 <br>
 [![CV Badge](https://img.shields.io/badge/-DownloadCV-white?style=plastic&logo=CV&link=https://bahrul-rozak.github.io/CV/images/cv_update.pdf)](https://bahrul-rozak.github.io/CV/images/cv_update.pdf)
-<br>
+
+
 ### Daftar Project yang sudah dibuat atau dikembangkan [Klik Disini](https://www.higithub.com/Bahrul-Rozak/user)
 <details>
   <summary>:zap: GitHub Statistic!</summary>
  
-## Statistic Github
+### Statistic Github
 <!-- <p align="center">
   <a>
     <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Bahrul-Rozak&theme=dark&hide_border=true" alt="Bahrul-Rozak"/>
