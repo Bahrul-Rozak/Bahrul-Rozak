@@ -6,8 +6,6 @@ Hi! My name is Bahrul Rozak. Thank You for taking the time to view my GitHub [Pr
 <br>
 [![CV Badge](https://img.shields.io/badge/-DownloadCV-white?style=plastic&logo=CV&link=https://bahrul-rozak.github.io/CV/images/cv_update.pdf)](https://bahrul-rozak.github.io/CV/images/cv_update.pdf)
 
-
-### Daftar Project yang sudah dibuat atau dikembangkan [Klik Disini](https://www.higithub.com/Bahrul-Rozak/user)
 <details>
   <summary>:zap: GitHub Statistic!</summary>
  
