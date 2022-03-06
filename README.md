@@ -1,3 +1,5 @@
+![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark)
+
 ## Summary
 ```html 
 <h1>Assalamualaikum !</h1>
@@ -46,5 +48,7 @@ Zak
 <p align="center">
 built with ❤️
 </p>
+
+
 
 
