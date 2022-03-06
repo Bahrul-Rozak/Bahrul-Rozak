@@ -1,9 +1,18 @@
 <!-- ![](https://github.com/Bahrul-Rozak/Bahrul-Rozak/blob/master/hai_v.png) -->
-Hello Fellow < Developers/ >!!
+```html 
+<h1>Assalamualaikum !</h1>
+<p>
+  Hello, my name is <b> Bahrul Rozak </b>, I am an active student at Muhammadiyah University Prof. DR. Hamka. 
+  I really like things related to programming. especially in the field of web programming, not only that, 
+  I also really like the world of website design and are able to adapt to existing technology. With my expertise, 
+  I have helped to develop several systems in the company.
+</p>
+Regards 😄
 <br>
-Hi! My name is Bahrul Rozak. Thank You for taking the time to view my GitHub [Profile](https://zak-portfolio.netlify.app/) :smile:
+Zak
+```
 <br>
-<br>
+
 [![CV Badge](https://img.shields.io/badge/-DownloadCV-white?style=plastic&logo=CV&link=https://bahrul-rozak.github.io/CV/images/cv_update.pdf)](https://bahrul-rozak.github.io/CV/images/cv_update.pdf)
 
 <details>
