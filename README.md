@@ -25,6 +25,7 @@ Zak
 [![Hashnode Badge](https://img.shields.io/badge/-Hashnode-white?style=plastic&logo=Hashnode&link=https://hashnode.com/@Rozak1453)](https://hashnode.com/@Rozak1453)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-white?style=plastic&logo=Telegram&link=https://t.me/zakcodes)](https://t.me/zakcodes)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-white?style=plastic&logo=Whatsapp&link=#)](#)
+[![Blogger Badge](https://img.shields.io/badge/-blogger-white?style=plastic&logo=Blogger&link=#)](https://bahrul-rozak-dev.blogspot.com)
 
 <h3> Curently Working With </h3>
 
