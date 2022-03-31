@@ -1,4 +1,4 @@
-![Quote](https://github-readme-quotes.herokuapp.com/quote?quoteCategory=programming)
+<!-- ![Quote](https://github-readme-quotes.herokuapp.com/quote?quoteCategory=programming) -->
 ## Summary
 ```html 
 <h1>Assalamualaikum !</h1>
