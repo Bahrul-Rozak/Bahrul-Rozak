@@ -14,7 +14,7 @@ Zak
 ```
 <br>
 
-[![CV Badge](https://img.shields.io/badge/-DownloadCV-white?style=plastic&logo=CV&link=https://bahrul-rozak.github.io/CV/images/cv_update.pdf)](https://bahrul-rozak.github.io/CV/images/cv_update.pdf)
+[![CV Badge](https://img.shields.io/badge/-DownloadCV-white?style=plastic&logo=CV&link=https://bahrul-rozak.github.io/CV/images/cv_update.pdf)](https://bahrul-rozak.github.io/CV/images/Profile.pdf)
 
 ## Social Media
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-white?style=plastic&logo=Gmail&link=mailto:@gmail.com)](mailto:@gmail.com)
