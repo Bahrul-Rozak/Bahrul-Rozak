@@ -1,54 +1,30 @@
-<!-- ![Quote](https://github-readme-quotes.herokuapp.com/quote?quoteCategory=programming) -->
-## Summary
-```html 
-<h1>Assalamualaikum !</h1>
-<p>
-  Hello, my name is <b> Bahrul Rozak </b>, I am an active student at Muhammadiyah University Prof. DR. Hamka. 
-  I really like things related to programming. especially in the field of web programming, not only that, 
-  I also really like the world of website design and are able to adapt to existing technology. With my expertise, 
-  I have helped to develop several systems in the company.
-</p>
-Regards 😄
-<br>
-Zak
-```
-<br>
+<h1 align="center">Hi 👋, I'm Bahrul Rozak</h1>
+<h3 align="center">Fullsnack Developer from Indonesia</h3>
 
-[![CV Badge](https://img.shields.io/badge/-DownloadCV-white?style=plastic&logo=CV&link=https://bahrul-rozak.github.io/CV/images/cv_update.pdf)](https://bahrul-rozak.github.io/CV/images/Profile.pdf)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bahrul-rozak&label=Profile%20views&color=0e75b6&style=flat" alt="bahrul-rozak" /> </p>
 
-## Social Media
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-white?style=plastic&logo=Gmail&link=mailto:@gmail.com)](mailto:@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=plastic&logo=Linkedin&link=https://id.linkedin.com/in/bahrul-rozak-a89317212)](https://id.linkedin.com/in/bahrul-rozak-a89317212) 
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-white?style=plastic&logo=instagram&link=https://www.instagram.com/rozak.js/)](https://www.instagram.com/rozak.js/)
-[![Protonmail Badge](https://img.shields.io/badge/-Protonmail-white?style=plastic&logo=Protonmail&link=mailto:@protonmail.com)](mailto:@protonmail.com)
-[![Gitlab Badge](https://img.shields.io/badge/-Gitlab-white?style=plastic&logo=Gitlab&link=https://gitlab.com/bahrulrozak1453)](https://gitlab.com/bahrulrozak1453)
-[![Hashnode Badge](https://img.shields.io/badge/-Hashnode-white?style=plastic&logo=Hashnode&link=https://hashnode.com/@Rozak1453)](https://hashnode.com/@Rozak1453)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-white?style=plastic&logo=Telegram&link=https://t.me/zakcodes)](https://t.me/zakcodes)
-[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-white?style=plastic&logo=Whatsapp&link=#)](#)
-[![Blogger Badge](https://img.shields.io/badge/-blogger-white?style=plastic&logo=Blogger&link=#)](https://bahrul-rozak-dev.blogspot.com)
+- 🔭 I’m currently working on **Codeigniter, Laravel**
 
-<h3> Curently Working With </h3>
+- 🌱 I’m currently learning **Machine Learning**
 
-![Metrics](https://metrics.lecoq.io/Bahrul-Rozak?template=terminal&base.header=0&base.activity=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&config.timezone=America%2FToronto)
+- 👨‍💻 All of my projects are available at [https://zak-portfolio.netlify.app/](https://zak-portfolio.netlify.app/)
 
-## My Adventure
-<details>
-  <summary>:zap: GitHub Statistic!</summary>
- 
-### Statistic Github
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=Bahrul-Rozak&theme=cobalt&show_icons=true)](https://github.com/Bahrul-Rozak)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bahrul-Rozak&hide=TeX&layout=compact&theme=cobalt)
-    
-</details>
+- 📝 I regularly write articles on [bahrulrozak.hashnode.dev](bahrulrozak.hashnode.dev)
 
+- 💬 Ask me about **how to make a website**
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Bahrul-Rozak)
+- 📫 How to reach me **bahrulrozak1453@protonmail.com**
 
-<!-- [Download My CV](https://bahrul-rozak.github.io/CV/images/CV-Bahrul-Rozak.pdf) -->
-<p align="center">
-built with ❤️
+- 📄 Know about my experiences [https://bahrul-rozak.github.io/CV/images/Profile.pdf](https://bahrul-rozak.github.io/CV/images/Profile.pdf)
+
+- ⚡ Fun fact **I think I am confused :v**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/bahrul-rozak-a89317212/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bahrul-rozak-a89317212/" height="30" width="40" /></a>
+<a href="https://instagram.com/rozakdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rozakdev" height="30" width="40" /></a>
+<a href="https://hashnode.com/@rozak1453" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@rozak1453" height="30" width="40" /></a>
 </p>
 
-
-
-
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://codeigniter.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.gatsbyjs.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.invisionapp.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/invisionapp/invisionapp-icon.svg" alt="invision" width="40" height="40"/> </a> <a href="https://jasmine.github.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg" alt="jasmine" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jekyllrb.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer"> <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/> </a> </p>
