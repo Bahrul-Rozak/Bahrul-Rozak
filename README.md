@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Codeigniter, Laravel**
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Front End**
 
 - 👨‍💻 All of my projects are available at [https://zak-portfolio.netlify.app/](https://zak-portfolio.netlify.app/)
 
