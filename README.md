@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [Click Here](bahrulrozak.hashnode.dev)
 
-- 💬 Dont Ask me about **how to h4ck :v  **
+- 💬 Dont Ask me about **how to h4ck :v **
 
 - 📫 How to reach me **bahrulrozak1453@protonmail.com**
 
