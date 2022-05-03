@@ -7,15 +7,15 @@
 
 - 🌱 I’m currently learning **Front End**
 
-- 👨‍💻 All of my projects are available at [https://zak-portfolio.netlify.app/](https://zak-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [Click Here](https://zak-portfolio.netlify.app/)
 
-- 📝 I regularly write articles on [bahrulrozak.hashnode.dev](bahrulrozak.hashnode.dev)
+- 📝 I regularly write articles on [Click Here](bahrulrozak.hashnode.dev)
 
 - 💬 Ask me about **how to make a website**
 
 - 📫 How to reach me **bahrulrozak1453@protonmail.com**
 
-- 📄 Know about my experiences [https://bahrul-rozak.github.io/CV/images/Profile.pdf](https://bahrul-rozak.github.io/CV/images/Profile.pdf)
+- 📄 Know about my experiences [Click Here](https://bahrul-rozak.github.io/CV/images/Profile.pdf)
 
 - ⚡ Fun fact **I think I am confused :v**
 
