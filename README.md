@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋 All, السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ</h1>
+<h1 align="center"> السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ</h1>
+<h1 align="center">Hi 👋 All </h1>
 <h3 align="center">I'M Bahrul Rozak Software Developer from Indonesia</h3>
 <h3 align="center">Welcome To My Small Laboratory</h3>
 
