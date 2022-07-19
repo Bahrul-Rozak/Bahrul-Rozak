@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Laravel and Codeigniter<br>👯 I’m looking to collaborate on open source project<br>🤝 I’m looking for help with web development<br>🌱 I’m currently learning front end developer<br>💬 Ask me about how about to make web apps<br>⚡ Fun fact i'am confused
+🔭 I’m currently working on Laravel and Codeigniter<br>👯 I’m looking to collaborate on open source project<br>🤝 I’m looking for help with Web Development<br>🌱 I’m currently learning Front End Developer<br>💬 Ask me about how to make web apps<br>⚡ Fun fact i'am confused
 
 
 ## 🌐 Socials:
