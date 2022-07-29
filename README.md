@@ -6,6 +6,7 @@ hi, my name is Bahrul Rozak, my friends used to call me Rozak, Ozak, Zak. I am a
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rozak.dev) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bahrul-rozak) 
 [![Blogger](https://img.shields.io/badge/Blogger-%230077B5.svg?logo=blogger&logoColor=white)](https://bahrulrozakdev.blogspot.com/) 
+[![Telegram](https://img.shields.io/badge/Telegram-%230077B5.svg?logo=telegram&logoColor=white)](https://t.me/ZakCodes) 
 
 ## 🌱 Adventure
 - Apr 2017 Pharmacy Intern at RSUD Kota Tangerang (Apr 2017 - May 2017)
