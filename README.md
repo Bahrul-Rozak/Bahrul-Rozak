@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Laravel and Codeigniter<br>👯 I’m looking to collaborate on open source project<br>🌱 I’m currently learning Front End Developer<br>💬 Ask me about how to make web apps<br>⚡ Fun fact i'am confused
+hi, my name is Bahrul Rozak, my friends used to call me Rozak, Ozak, Zak. I am a self-taught student and web developer. I'm from Indonesia, currently I work with Codeigniter and Laravel, but in my previous job I also used Vue JS and Microsoft SQL Server.
 
 
 ## 🌐 Socials:
