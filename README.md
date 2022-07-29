@@ -7,6 +7,15 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bahrul-rozak) 
 [![Blogger](https://img.shields.io/badge/Blogger-%230077B5.svg?logo=blogger&logoColor=white)](https://bahrulrozakdev.blogspot.com/) 
 
+## 🌱 Adventure
+- Apr 2017 Pharmacy Intern at RSUD Kota Tangerang (Apr 2017 - May 2017)
+- Oct 2018 Pharmay Intern at RS KesDAM Daan Mogot (Oct 2018 - Nov 2018)
+- Nov 2021 Web Developer at Teknoka 6 UHAMKA Using Codeigniter (Nov 2021 - Aug 2021)
+- Oct 2021 Intern Web Developer at BPTI UHAMKA Using Codeigniter, Laravel, Microsoft SQL Server (Oct 2021 - Feb 2022)
+- SEO Engineer at BPTI UHAMKA (Feb- Now)
+- Fullstack Developer at Our Capstone (SIB Dicoding Batch 2)
+
+
 
 # 💻 Tech Stack:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
