@@ -10,7 +10,7 @@ hi, my name is Bahrul Rozak, my friends used to call me Rozak, Ozak, Zak. I am a
 
 ## 🌱 Adventure
 - Apr 2017 Pharmacy Intern at RSUD Kota Tangerang (Apr 2017 - May 2017)
-- Oct 2018 Pharmay Intern at RS KESDAM Daan Mogot (Oct 2018 - Nov 2018)
+- Oct 2018 Pharmacy Intern at RS KESDAM Daan Mogot (Oct 2018 - Nov 2018)
 - Nov 2021 Web Developer at Teknoka 6 UHAMKA Using Codeigniter (Nov 2021 - Aug 2021)
 - Oct 2021 Intern Web Developer at BPTI UHAMKA Using Codeigniter, Laravel, Microsoft SQL Server (Oct 2021 - Feb 2022)
 - SEO Engineer at BPTI UHAMKA (Feb- Now)
