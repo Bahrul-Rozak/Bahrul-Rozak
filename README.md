@@ -13,7 +13,7 @@ hi, my name is Bahrul Rozak, my friends used to call me Rozak, Ozak, Zak. I am a
 - Oct 2018 Pharmacy Intern at RS KESDAM Daan Mogot (Oct 2018 - Nov 2018)
 - Nov 2021 Web Developer at Teknoka 6 UHAMKA Using Codeigniter (Nov 2021 - Aug 2021)
 - Oct 2021 Web Developer Intern at BPTI UHAMKA Using Codeigniter, Laravel, Microsoft SQL Server (Oct 2021 - Feb 2022)
-- SEO Engineer at BPTI UHAMKA (Feb- Now)
+- SEO Engineer at BPTI UHAMKA (Feb - Now)
 - Fullstack Developer at Our Capstone (SIB Dicoding Batch 2)
 
 
