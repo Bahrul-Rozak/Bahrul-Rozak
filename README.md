@@ -3,7 +3,7 @@ hi, my name is Bahrul Rozak, my friends used to call me Rozak, Ozak, Zak. I am a
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-white.svg?logo=Instagram&logoColor=black)](https://instagram.com/rozak.dev) 
+[![Instagram](https://img.shields.io/badge/Instagram-white.svg?logo=Instagram&logoColor=black)](https://instagram.com/rozakdev) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-white.svg?logo=linkedin&logoColor=black)](https://linkedin.com/in/bahrul-rozak) 
 [![Blogger](https://img.shields.io/badge/Blogger-white.svg?logo=blogger&logoColor=black)](https://bahrulrozakdeveloper.blogspot.com/) 
 [![Telegram](https://img.shields.io/badge/Telegram-white.svg?logo=telegram&logoColor=black)](https://t.me/ZakCodes) 
