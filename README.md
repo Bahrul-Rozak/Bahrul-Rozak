@@ -10,10 +10,10 @@ hi, my name is Bahrul Rozak, my friends used to call me Rozak, Ozak, Zak. I am a
 [![Youtube](https://img.shields.io/badge/Youtube-white.svg?logo=youtube&logoColor=black)](https://www.youtube.com/channel/UC7I8s4D8fzMCBtQy3-JZOHA) 
 
 ## 🌱 Adventure
-- Apr 2017 Pharmacy Intern at RSUD Kota Tangerang (Apr 2017 - May 2017)
-- Oct 2018 Pharmacy Intern at RS KESDAM Daan Mogot (Oct 2018 - Nov 2018)
-- Nov 2021 Web Developer at Teknoka 6 UHAMKA Using Codeigniter (Nov 2021 - Aug 2021)
-- Oct 2021 Web Developer Intern at BPTI UHAMKA Using Codeigniter, Laravel, Microsoft SQL Server (Oct 2021 - Feb 2022)
+- Pharmacy Intern at RSUD Kota Tangerang (Apr 2017 - May 2017)
+- Pharmacy Intern at RS KESDAM Daan Mogot (Oct 2018 - Nov 2018)
+- Web Developer at Teknoka 6 UHAMKA Using Codeigniter (Nov 2021 - Aug 2021)
+- Web Developer Intern at BPTI UHAMKA Using Codeigniter, Laravel, Microsoft SQL Server, VueJS (Oct 2021 - Feb 2022)
 - SEO Engineer at BPTI UHAMKA (Feb 2022 - Now)
 - Fullstack Developer at Our Capstone (SIB Dicoding Batch 2)
 
