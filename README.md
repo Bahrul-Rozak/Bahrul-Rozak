@@ -19,11 +19,11 @@ hi, my name is Bahrul Rozak, my friends used to call me Rozak, Ozak, Zak. I am a
 
 
 
-# Database:
+# 💾 Database
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-white?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=red)
 ![MySQL](https://img.shields.io/badge/mysql-white.svg?style=for-the-badge&logo=mysql&logoColor=black)
 
-# Design
+# ✒️ Design
 ![Figma](https://img.shields.io/badge/figma-white.svg?style=for-the-badge&logo=figma&logoColor=black)
 ![Invision](https://img.shields.io/badge/invision-white?style=for-the-badge&logo=invision&logoColor=black)
 
