@@ -16,6 +16,8 @@ hi, my name is Bahrul Rozak, my friends used to call me Rozak, Ozak, Zak. I am a
 - Web Developer Intern at BPTI UHAMKA Using Codeigniter, Laravel, Microsoft SQL Server, VueJS (Oct 2021 - Feb 2022)
 - SEO Engineer at BPTI UHAMKA (Feb 2022 - Now)
 - Fullstack Developer at Our Capstone (SIB Dicoding Batch 2)
+- Independent Web Developer (Sep 2022 - Now) 
+--> Help People or Organization to make site (education, company, UMKM, etc)
 
 
 
