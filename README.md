@@ -7,7 +7,7 @@ Hi, my name is Bahrul Rozak, my friends call me Rozak, Ozak, Zak, Kang Bakso, Je
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-white.svg?logo=linkedin&logoColor=black)](https://linkedin.com/in/bahrul-rozak) 
 [![Blogger](https://img.shields.io/badge/Blogger-white.svg?logo=blogger&logoColor=black)](https://bahrulrozakdeveloper.blogspot.com/) 
 [![Telegram](https://img.shields.io/badge/Telegram-white.svg?logo=telegram&logoColor=black)](https://t.me/ZakCodes) 
-[![Open Learning](https://img.shields.io/badge/Youtube-white.svg?logo=youtube&logoColor=black)](https://www.youtube.com/channel/UCPMRfXjpTbX9eiimya1orrw) 
+[![Youtube](https://img.shields.io/badge/Open-Learning-white.svg?logo=youtube&logoColor=black)](https://www.youtube.com/channel/UCPMRfXjpTbX9eiimya1orrw) 
 
 ## 🌱 Adventure
 - Pharmacy Intern at RSUD Kota Tangerang (Apr 2017 - May 2017)
