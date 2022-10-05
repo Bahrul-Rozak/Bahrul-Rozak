@@ -5,7 +5,7 @@ Hi, my name is Bahrul Rozak, my friends call me Rozak, Ozak, Zak, Kang Bakso, Je
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-white.svg?logo=Instagram&logoColor=black)](https://www.instagram.com/rozak.acetaminophen/) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-white.svg?logo=linkedin&logoColor=black)](https://linkedin.com/in/bahrul-rozak) 
-[![Blogger](https://img.shields.io/badge/Blogger-white.svg?logo=blogger&logoColor=black)](https://bahrulrozakdeveloper.blogspot.com/) 
+[![Blogger](https://img.shields.io/badge/Online-Learning-Masyarakat-white.svg?logo=blogger&logoColor=black)](https://bahrulrozakwiki.blogspot.com/) 
 [![Telegram](https://img.shields.io/badge/Telegram-white.svg?logo=telegram&logoColor=black)](https://t.me/ZakCodes) 
 [![Youtube](https://img.shields.io/badge/Open-Learning-white.svg?logo=youtube&logoColor=black)](https://www.youtube.com/channel/UCPMRfXjpTbX9eiimya1orrw) 
 
