@@ -3,11 +3,10 @@ Hi, my name is Bahrul Rozak, my friends call me Rozak, Ozak, Zak, Kang Bakso, Je
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-white.svg?logo=Instagram&logoColor=black)](https://www.instagram.com/rozak.acetaminophen/) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-white.svg?logo=linkedin&logoColor=black)](https://linkedin.com/in/bahrul-rozak) 
 [![Hashnode](https://img.shields.io/badge/Online-Learning-white.svg?logo=hashnode&logoColor=black)](https://bahrulrozak.hashnode.dev/) 
 [![Telegram](https://img.shields.io/badge/Telegram-white.svg?logo=telegram&logoColor=black)](https://t.me/ZakCodes) 
-[![Youtube](https://img.shields.io/badge/Open-Learning-white.svg?logo=youtube&logoColor=black)](https://www.youtube.com/channel/UCPMRfXjpTbX9eiimya1orrw) 
+
 
 ## 🌱 Adventure
 - Pharmacy Intern at RSUD Kota Tangerang (Apr 2017 - May 2017)
