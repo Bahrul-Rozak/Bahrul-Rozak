@@ -20,40 +20,22 @@ Hi, my name is Bahrul Rozak, my friends call me Rozak, Ozak, Zak, Kang Bakso, Je
 
 
 
-# 💾 Database
+# Development Tools
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-white?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=red)
 ![MySQL](https://img.shields.io/badge/mysql-white.svg?style=for-the-badge&logo=mysql&logoColor=black)
-
-# ✒️ Design
 ![Figma](https://img.shields.io/badge/figma-white.svg?style=for-the-badge&logo=figma&logoColor=black)
 ![Invision](https://img.shields.io/badge/invision-white?style=for-the-badge&logo=invision&logoColor=black)
-
-# 📚 Frameworks, Platforms and Libraries
 ![Code-Igniter](https://img.shields.io/badge/CodeIgniter-white.svg?style=for-the-badge&logo=codeIgniter&logoColor=black)
 ![Insomnia](https://img.shields.io/badge/Insomnia-white?style=for-the-badge&logo=insomnia&logoColor=black)
 ![Laravel](https://img.shields.io/badge/laravel-white.svg?style=for-the-badge&logo=laravel&logoColor=black)
 ![NPM](https://img.shields.io/badge/NPM-white.svg?style=for-the-badge&logo=npm&logoColor=black)
 ![NodeJS](https://img.shields.io/badge/node.js-white?style=for-the-badge&logo=node.js&logoColor=black)
 ![Vue.js](https://img.shields.io/badge/vuejs-white.svg?style=for-the-badge&logo=vuedotjs&logoColor=black)
-
-# ☁️ Hosting/SaaS
-![Netlify](https://img.shields.io/badge/netlify-white.svg?style=for-the-badge&logo=netlify&logoColor=black)
-![Vercel](https://img.shields.io/badge/vercel-white.svg?style=for-the-badge&logo=vercel&logoColor=black)
-
-# 📋 Languages
 ![CSS3](https://img.shields.io/badge/css3-white.svg?style=for-the-badge&logo=css3&logoColor=black)
 ![HTML5](https://img.shields.io/badge/html5-white.svg?style=for-the-badge&logo=html5&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/javascript-white.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/php-white.svg?style=for-the-badge&logo=php&logoColor=black)
 ![Python](https://img.shields.io/badge/python-white?style=for-the-badge&logo=python&logoColor=black)
-
-# 🖥️ ML/DL
-![Keras](https://img.shields.io/badge/Keras-white.svg?style=for-the-badge&logo=Keras&logoColor=black)
-![NumPy](https://img.shields.io/badge/numpy-white.svg?style=for-the-badge&logo=numpy&logoColor=black)
-![Pandas](https://img.shields.io/badge/pandas-white.svg?style=for-the-badge&logo=pandas&logoColor=black)
-![Plotly](https://img.shields.io/badge/Plotly-white.svg?style=for-the-badge&logo=plotly&logoColor=black)
-![PyTorch](https://img.shields.io/badge/PyTorch-white.svg?style=for-the-badge&logo=PyTorch&logoColor=black)
-
 
 
 [![](https://visitcount.itsvg.in/api?id=bahrul-rozak&icon=0&color=0)](https://visitcount.itsvg.in)
