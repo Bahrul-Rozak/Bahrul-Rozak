@@ -1,43 +1,21 @@
 # 💫 About Me:
-Hi, my name is Bahrul Rozak, my friends call me Rozak, Ozak, Zak, Kang Bakso, Jenderal. I am a self-taught Web Developer. I'm from Indonesia, currently I work with Codeigniter and Laravel, but in my previous job I also used Vue JS and Microsoft SQL Server.
+Hi, my name is Bahrul Rozak, my friends call me Rozak, Ozak, Zak, Kang Bakso, Jenderal. I am a self-taught Web Developer. I'm from Indonesia, currently I work with Codeigniter and Laravel, but in my previous job I also used Vue JS and Microsoft SQL Server
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-white.svg?logo=linkedin&logoColor=black)](https://linkedin.com/in/bahrul-rozak) 
-[![Hashnode](https://img.shields.io/badge/Online-Learning-white.svg?logo=hashnode&logoColor=black)](https://bahrulrozak.hashnode.dev/) 
-[![Telegram](https://img.shields.io/badge/Telegram-white.svg?logo=telegram&logoColor=black)](https://t.me/ZakCodes) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rozak.dexamethasone) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bahrul-rozak) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/bahrulrozak87) 
 
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Code-Igniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Bahrul-Rozak&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Bahrul-Rozak&theme=vue-dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bahrul-Rozak&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🌱 Adventure
-- Pharmacy Intern at RSUD Kota Tangerang (Apr 2017 - May 2017)
-- Pharmacy Intern at RS KESDAM Daan Mogot (Oct 2018 - Nov 2018)
-- Web Developer at Teknoka 6 UHAMKA Using Codeigniter (Nov 2021 - Aug 2021)
-- Web Developer Intern at BPTI UHAMKA Using Codeigniter, Laravel, Microsoft SQL Server, VueJS (Oct 2021 - Feb 2022)
-- Fullstack Developer at Our Capstone (SIB Dicoding Batch 2)
-- SEO Engineer at BPTI UHAMKA (Feb 2022 - Now)
-- Independent Web Developer (Sep 2022 - Now) 
---> Help People or Organization to make site (education, company, UMKM, etc)
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
+---
+[![](https://visitcount.itsvg.in/api?id=Bahrul-Rozak&icon=0&color=0)](https://visitcount.itsvg.in)
 
-
-# Development Tools
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-white?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=red)
-![MySQL](https://img.shields.io/badge/mysql-white.svg?style=for-the-badge&logo=mysql&logoColor=black)
-![Figma](https://img.shields.io/badge/figma-white.svg?style=for-the-badge&logo=figma&logoColor=black)
-![Invision](https://img.shields.io/badge/invision-white?style=for-the-badge&logo=invision&logoColor=black)
-![Code-Igniter](https://img.shields.io/badge/CodeIgniter-white.svg?style=for-the-badge&logo=codeIgniter&logoColor=black)
-![Insomnia](https://img.shields.io/badge/Insomnia-white?style=for-the-badge&logo=insomnia&logoColor=black)
-![Laravel](https://img.shields.io/badge/laravel-white.svg?style=for-the-badge&logo=laravel&logoColor=black)
-![NPM](https://img.shields.io/badge/NPM-white.svg?style=for-the-badge&logo=npm&logoColor=black)
-![NodeJS](https://img.shields.io/badge/node.js-white?style=for-the-badge&logo=node.js&logoColor=black)
-![Vue.js](https://img.shields.io/badge/vuejs-white.svg?style=for-the-badge&logo=vuedotjs&logoColor=black)
-![CSS3](https://img.shields.io/badge/css3-white.svg?style=for-the-badge&logo=css3&logoColor=black)
-![HTML5](https://img.shields.io/badge/html5-white.svg?style=for-the-badge&logo=html5&logoColor=black)
-![JavaScript](https://img.shields.io/badge/javascript-white.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/php-white.svg?style=for-the-badge&logo=php&logoColor=black)
-![Python](https://img.shields.io/badge/python-white?style=for-the-badge&logo=python&logoColor=black)
-
-
-[![](https://visitcount.itsvg.in/api?id=bahrul-rozak&icon=0&color=0)](https://visitcount.itsvg.in)
-
-Tahun Anggaran 2022 - 2023, Builth with ❤️
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
