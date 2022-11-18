@@ -12,6 +12,8 @@ Hi, my name is Bahrul Rozak, my friends call me Rozak, Ozak, Zak, Kang Bakso, Je
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Bahrul-Rozak&theme=vue-dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bahrul-Rozak&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+[![Check out Bahrul-Rozak's profile on stardev.io](https://stardev.io/developers/Bahrul-Rozak/badge/languages/global.svg)](https://stardev.io/developers/Bahrul-Rozak)
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
