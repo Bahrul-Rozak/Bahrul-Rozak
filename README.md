@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, my name is Bahrul Rozak, my friends call me Rozak, Ozak, Zak, Kang Bakso, Jenderal. I am a self-taught Web Developer. I'm from Indonesia, currently I work with Codeigniter and Laravel, but in my previous job I also used Vue JS and Microsoft SQL Server
+Hi, my name is Bahrul Rozak, my friends call me Rozak, Ozak, Zak, Kang Bakso, Jenderal. I am a self-taught Web Developer. I'm from Indonesia, currently I work with Codeigniter and Laravel, but in my previous job I also used Vue JS and Microsoft SQL Server. Now currently im learning NodeJs
 
 
 ## 🌐 Socials:
