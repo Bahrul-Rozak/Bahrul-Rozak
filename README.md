@@ -1,6 +1,19 @@
 # 💫 About Me:
-Hi, my name is Bahrul Rozak, my friends call me Rozak, Ozak, Zak, Kang Bakso, Jenderal. I am a self-taught Web Developer. I'm from Indonesia, currently I work with Codeigniter and Laravel, but in my previous job I also used Vue JS and Microsoft SQL Server. Now currently im learning NodeJs. Click [Here](https://github.com/Bahrul-Rozak/portofolio) to see my latest work
 
+```js
+function userData(){
+    this.HiMyNameIs = "bahrul Rozak";
+    this.MyFriendsCallMe = "Rozak, Ozak, Zak, Kang Bakso, Jenderal";
+    this.Iam = "Self taught Web Developer";
+    this.From = "Indonesia";
+    this.CurrentlyIWorkWith = "Codeigniter and Laravel";
+    this.ButInMtPreviosJobIamUsing = "Laravel, VueJs and Microsoft SQL Server";
+    this.NowCurrently = "Iam Learning NodeJS";
+}
+
+const generateUserData = new userData()
+console.log(generateUserData)
+```
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rozak.dexamethasone)
