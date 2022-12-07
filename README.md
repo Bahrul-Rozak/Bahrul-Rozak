@@ -7,13 +7,17 @@ function userData(){
     this.Iam = "Self taught Web Developer";
     this.From = "Indonesia";
     this.CurrentlyIWorkWith = "Codeigniter and Laravel";
-    this.ButInMtPreviosJobIamUsing = "Laravel, VueJs and Microsoft SQL Server";
+    this.ButInMyPreviosJobIamUsing = "Laravel, VueJs and Microsoft SQL Server";
     this.NowCurrently = "Iam Learning NodeJS";
 }
 
 const generateUserData = new userData()
 console.log(generateUserData)
 ```
+
+| Module | Link |
+| ------ | ---- |
+| Front End | [Visit Here](https://docs.google.com/presentation/d/1Nt4_EowW9koX1k-TYgbzYsXdMl6dKKYiVGpUZLtmiBI/edit#slide=id.p) |
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rozak.dexamethasone)
