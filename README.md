@@ -15,10 +15,6 @@ const generateUserData = new userData()
 console.log(generateUserData)
 ```
 
-| Module | Link |
-| ------ | ---- |
-| Front End | [Visit Here](https://docs.google.com/presentation/d/1Nt4_EowW9koX1k-TYgbzYsXdMl6dKKYiVGpUZLtmiBI/edit#slide=id.p) |
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rozak.dexamethasone)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bahrul-rozak) 
