@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-```js
+```javascript
 function userData(){
     this.HiMyNameIs = "bahrul Rozak";
     this.MyFriendsCallMe = "Rozak, Ozak, Zak, Kang Bakso, Jenderal";
