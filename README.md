@@ -15,6 +15,9 @@ const generateUserData = new userData()
 console.log(generateUserData)
 ```
 
+# E-Book
+- [Mobile First Design](https://www.researchgate.net/publication/366657605_Mobile_First_Approach_Guide?_sg=bBOtAlRj32erDgfLS32OVYzTsmT0iDntrHeC29hPnRUpbFEa9xBWkJIkrPn59RFo8uTrjFXhrjH1sUA)
+
 # 📊 GitHub Stats:
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=bahrul-rozak&theme=github)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bahrul-rozak&theme=github&utcOffset=8)
