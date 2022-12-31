@@ -1,19 +1,4 @@
-# 💫 About Me:
-
-```javascript
-function userData(){
-    this.HiMyNameIs = "bahrul Rozak";
-    this.MyFriendsCallMe = "Rozak, Ozak, Zak, Kang Bakso, Jenderal";
-    this.Iam = "Self taught Web Developer";
-    this.From = "Indonesia";
-    this.CurrentlyIWorkWith = "Codeigniter and Laravel";
-    this.ButInMyPreviosJobIamUsing = "Laravel, VueJs and Microsoft SQL Server";
-    this.NowCurrently = "Iam Learning NodeJS";
-}
-
-const generateUserData = new userData()
-console.log(generateUserData)
-```
+[![An image of @bahrulrozak's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/bahrulrozak)](https://holopin.io/@bahrulrozak)
 
 # E-Book
 - [Mobile First Design](https://www.researchgate.net/publication/366657605_Mobile_First_Approach_Guide?_sg=bBOtAlRj32erDgfLS32OVYzTsmT0iDntrHeC29hPnRUpbFEa9xBWkJIkrPn59RFo8uTrjFXhrjH1sUA)
