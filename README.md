@@ -1,4 +1,7 @@
-[![An image of @bahrulrozak's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/bahrulrozak)](https://holopin.io/@bahrulrozak)
+<!-- [![An image of @bahrulrozak's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/bahrulrozak)](https://holopin.io/@bahrulrozak) -->
+
+# Assalamualaikum!
+Hello my name is Bahrul Rozak, I am Web Developer from Indonesia, I have some experience at web development and now I am currently learn, focus and share front end 
 
 # Free E-Book
 - [Mobile First Design](https://www.researchgate.net/publication/366657605_Mobile_First_Approach_Guide?_sg=bBOtAlRj32erDgfLS32OVYzTsmT0iDntrHeC29hPnRUpbFEa9xBWkJIkrPn59RFo8uTrjFXhrjH1sUA)
