@@ -6,6 +6,9 @@ Hello my name is Bahrul Rozak, I am Web Developer from Indonesia, I have some ex
 # Free E-Book
 - [Mobile First Design](https://www.researchgate.net/publication/366657605_Mobile_First_Approach_Guide?_sg=bBOtAlRj32erDgfLS32OVYzTsmT0iDntrHeC29hPnRUpbFEa9xBWkJIkrPn59RFo8uTrjFXhrjH1sUA)
 
+## Free Courses
+- [Learn JavaScript](https://www.youtube.com/@bahrulrozak4003)
+
 # 📊 GitHub Stats:
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=bahrul-rozak&theme=github)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bahrul-rozak&theme=github&utcOffset=8)
