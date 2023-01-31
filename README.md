@@ -22,7 +22,8 @@ Hello my name is Bahrul Rozak, I am Web Developer from Indonesia, I have some ex
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bahrul-rozak) 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/bahrulrozak87)
 [![Stackoverflow](https://img.shields.io/badge/Stackoverflow-%231DA1F2.svg?logo=Stackoverflow&logoColor=white)](https://stackoverflow.com/users/20835639/bahrul-rozak)
- [![Gitlab](https://img.shields.io/badge/Gitlab-%231DA1F2.svg?logo=Gitlab&logoColor=white)](https://gitlab.com/bahrulrozak1453)
+[![Gitlab](https://img.shields.io/badge/Gitlab-%231DA1F2.svg?logo=Gitlab&logoColor=white)](https://gitlab.com/bahrulrozak1453)
+[![Facebook](https://img.shields.io/badge/Facebook-%231DA1F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/people/Bahrul-Rozak/100089773847661/)
 
 
 
