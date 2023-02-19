@@ -1,7 +1,8 @@
 <!-- [![An image of @bahrulrozak's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/bahrulrozak)](https://holopin.io/@bahrulrozak) -->
 
-# Assalamualaikum!
-Hello my name is Bahrul Rozak, I am Web Developer from Indonesia, I have some experience at web development and now I am currently learn, focus and share front end 
+# Assalamualaikum! Merhaba!
+<p align="justify">
+As an experienced Web Developer from Indonesia, I have the ability to build websites using cutting-edge technologies such as the CodeIgniter, Laravel, and Vue.js frameworks. I have both individual and team working experience, allowing me to efficiently and effectively complete tasks and projects. My current focus is on improving my skills as a Front End Developer by learning new technologies and participating in open source projects. Additionally, I have a hobby of sharing my knowledge of programming through Github. I am confident that my skills and experience, along with my passion for sharing knowledge, will be highly valuable in helping a company or team achieve their goals.</p>
 
 # Free E-Book
 - [Mobile First Design](https://www.researchgate.net/publication/366657605_Mobile_First_Approach_Guide?_sg=bBOtAlRj32erDgfLS32OVYzTsmT0iDntrHeC29hPnRUpbFEa9xBWkJIkrPn59RFo8uTrjFXhrjH1sUA)
