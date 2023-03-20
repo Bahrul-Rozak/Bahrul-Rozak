@@ -12,7 +12,8 @@ As an experienced Web Developer from Indonesia, I have the ability to build webs
 [![Gitlab](https://img.shields.io/badge/Gitlab-%231DA1F2.svg?logo=Gitlab&logoColor=white)](https://gitlab.com/bahrulrozak1453)
 [![Facebook](https://img.shields.io/badge/Facebook-%231DA1F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/people/Bahrul-Rozak/100089773847661/)
 
- [Download CV](https://my.indeed.com/p/bahrulr-ed2htea)
+ [Download CV](https://my.indeed.com/p/bahrulr-ed2htea) <br>
+ [My Portfolio](https://docs.google.com/presentation/d/1gOKeXDWruZheNRImX1sUfYGFyK9ZfyOlz9bVa5ojTRU/edit?usp=sharing)
 
 
 # Free E-Book
