@@ -13,7 +13,8 @@ As an experienced Web Developer from Indonesia, I have the ability to build webs
 [![Facebook](https://img.shields.io/badge/Facebook-%231DA1F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/people/Bahrul-Rozak/100089773847661/)
 
  [Download CV](https://my.indeed.com/p/bahrulr-ed2htea) <br>
- [My Portfolio](https://docs.google.com/presentation/d/1gOKeXDWruZheNRImX1sUfYGFyK9ZfyOlz9bVa5ojTRU/edit?usp=sharing)
+ [My Portfolio](https://docs.google.com/presentation/d/1gOKeXDWruZheNRImX1sUfYGFyK9ZfyOlz9bVa5ojTRU/edit?usp=sharing) <br>
+ [30 Days of JavaScript](https://medium.com/@bahrulrozak/list/30-hari-javascript-ac964aad41a3)
 
 
 # Free E-Book
