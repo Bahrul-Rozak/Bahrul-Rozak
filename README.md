@@ -1,5 +1,5 @@
-<h1 align="center">Hi Assalamualaikum 👋, I'm Bahrul Rozak</h1>
-<h3 align="center">A passionate we developer from Indonesia</h3>
+<h1 align="left">Hi Assalamualaikum 👋, I'm Bahrul Rozak</h1>
+<h3 align="left">A passionate we developer from Indonesia</h3>
 
 - 🌱 I’m currently learning **ReactJS, Vue JS x Laravel**
 - 👯 I’m looking to collaborate on **Start Up Company**
@@ -8,7 +8,6 @@
 - 📝 I regularly write articles on [Medium](https://medium.com/@bahrulrozak)
 - 📫 How to reach me **bahrulrozak02@gmail.com**
 - 📄 Know about my experiences [Visit Here](https://my.indeed.com/p/bahrulr-ed2htea)
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -24,12 +23,7 @@
 # 📊 GitHub Stats:
 [![Bahrul Rozak's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Bahrul-Rozak&theme=dracula)](https://github.com/Bahrul-Rozak)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=bahrul-rozak&show_icons=true&locale=en" alt="bahrul-rozak" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bahrul-rozak&" alt="bahrul-rozak" /></p>
-
-# 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=javascript,php,nodejs,figma&theme=light)](https://skillicons.dev)
-
+[![Check out Bahrul-Rozak's profile on stardev.io](https://stardev.io/developers/Bahrul-Rozak/badge/languages/global.svg)](https://stardev.io/developers/Bahrul-Rozak)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
