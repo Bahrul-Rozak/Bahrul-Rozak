@@ -2,7 +2,7 @@
 <h3 align="left">A passionate we developer from Indonesia</h3>
 
 - 🌱 I’m currently learning **ReactJS, Vue JS x Laravel**
-- 👯 I’m looking to collaborate on **Start Up Company**
+- 👯 I’m looking to collaborate on **Start Up Company, Digital Agency, Edu**
 - 🤝 I’m looking for help with **Open Soure Project**
 - 👨‍💻 All of my projects are available at [Here](https://bahrul-rozak.github.io/Zak-Portfolio/)
 - 📝 I regularly write articles on [Medium](https://medium.com/@bahrulrozak)
