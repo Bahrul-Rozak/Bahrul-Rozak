@@ -20,10 +20,18 @@
 <a href="https://www.youtube.com/@bahrulrozak078" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@bahrulrozak078" height="30" width="40" /></a>
 </p>
 
+## Open Source Projects
+- [Laravel Modern Admin Dashboard](https://github.com/Bahrul-Rozak/Laravel-Modern-Admin-Dashboard)
+- [Perumahan Taman Kota Rajeg](https://github.com/Bahrul-Rozak/Perumahan-Taman-Kota-Rajeg)
+- [Online Learning Rakyat](https://github.com/Bahrul-Rozak/Online-Learning-Rakyat)
+- [E-Sekolah](https://github.com/Bahrul-Rozak/E-Sekolah)
+
+## Learning Resources Free!
+- [Learn NodeJS](https://github.com/Bahrul-Rozak/Belajar-Node-JS)
+- [30 Days JavaScript Ramadhan Edition](https://github.com/Bahrul-Rozak/30-Hari-JavaScript-Ramadhan-Edition)
+
 # 📊 GitHub Stats:
 [![Bahrul Rozak's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Bahrul-Rozak&theme=dracula)](https://github.com/Bahrul-Rozak)
-
-[![Check out Bahrul-Rozak's profile on stardev.io](https://stardev.io/developers/Bahrul-Rozak/badge/languages/global.svg)](https://stardev.io/developers/Bahrul-Rozak)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
