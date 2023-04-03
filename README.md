@@ -1,5 +1,5 @@
 <h1 align="left">Hi Assalamualaikum 👋, I'm Bahrul Rozak</h1>
-<h3 align="left">A passionate we developer from Indonesia</h3>
+<h3 align="left">A passionate web developer from Indonesia</h3>
 
 - 🌱 I’m currently learning **ReactJS, Vue JS x Laravel**
 - 👯 I’m looking to collaborate on **Start Up Company, Software House, Digital Agency, Education**
