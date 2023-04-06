@@ -12,7 +12,7 @@
 
 ```
 🚧 Fulltime Worker (09.00 - 17.00 UTC +7) Monday untill Friday
-🥦 Freelance available start from 32 hours/weeks (Web Development Adding Feature, Copywritter)
+🥦 Freelance available start from 28 hours/weeks (Web Development, Adding Feature, Copywritter)
 ```
 
 <h3 align="left">Connect with me:</h3>
