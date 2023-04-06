@@ -10,6 +10,11 @@
 - 📫 How to reach me **bahrulrozak02@gmail.com**
 - 📄 Know about my experiences [Visit Here](https://my.indeed.com/p/bahrulr-ed2htea)
 
+```
+🚧 Fulltime Worker (09.00 - 17.00 UTC +7) Monday untill Friday
+🥦 Freelance available start from 32 hours/weeks (Web Development Adding Feature, Copywritter)
+```
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/bahrul-rozak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/bahrul-rozak" height="30" width="40" /></a>
