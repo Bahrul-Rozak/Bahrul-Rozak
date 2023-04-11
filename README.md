@@ -10,6 +10,9 @@
 - 📫 How to reach me **bahrulrozak02@gmail.com**
 - 📄 Know about my experiences [Visit Here](https://my.indeed.com/p/bahrulr-ed2htea)
 
+## Free Web Development Service for UMKM, Education, Humanitarian and other sector 
+- Term and condition applied
+
 ```
 🚧 Fulltime Worker (09.00 - 17.00 UTC +7) Monday untill Friday
 🥦 Freelance available start from 28 hours/weeks (Web Development, Adding Feature, Copywritter)
