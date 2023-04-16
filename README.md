@@ -20,6 +20,16 @@
 🥦 Freelance available start from 28 hours/weeks (Web Development, Adding Feature, Copywritter)
 ```
 
+## Learning Resources Free!
+- [Learn NodeJS](https://github.com/Bahrul-Rozak/Belajar-Node-JS)
+- [30 Days JavaScript Ramadhan Edition](https://github.com/Bahrul-Rozak/30-Hari-JavaScript-Ramadhan-Edition)
+
+# 📊 GitHub Stats:
+[![Bahrul Rozak's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Bahrul-Rozak&theme=dracula)](https://github.com/Bahrul-Rozak)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/bahrul-rozak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/bahrul-rozak" height="30" width="40" /></a>
@@ -30,16 +40,6 @@
 <a href="https://medium.com/@bahrulrozak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@bahrulrozak" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@bahrulrozak078" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@bahrulrozak078" height="30" width="40" /></a>
 </p>
-
-## Learning Resources Free!
-- [Learn NodeJS](https://github.com/Bahrul-Rozak/Belajar-Node-JS)
-- [30 Days JavaScript Ramadhan Edition](https://github.com/Bahrul-Rozak/30-Hari-JavaScript-Ramadhan-Edition)
-
-# 📊 GitHub Stats:
-[![Bahrul Rozak's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Bahrul-Rozak&theme=dracula)](https://github.com/Bahrul-Rozak)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Bahrul-Rozak&icon=0&color=0)](https://visitcount.itsvg.in)
