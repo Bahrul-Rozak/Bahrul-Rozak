@@ -1,6 +1,8 @@
 <h1 align="left">Hi Assalamualaikum 👋, I'm Bahrul Rozak</h1>
 <h3 align="left">A passionate web developer from Indonesia</h3>
 
+![Welcome](https://i.pinimg.com/originals/72/3f/e9/723fe9bf86184230f7286634f3b74543.gif) 
+
 - 🌱 I’m currently learning **ReactJS, Vue JS x Laravel**
 - 👯 I’m looking to collaborate on **Start Up Company, Software House, Digital Agency, Education**
 - 📍  I'm Founder at [Indocodebase Group](https://www.facebook.com/profile.php?id=100091639085916)
@@ -28,12 +30,6 @@
 <a href="https://medium.com/@bahrulrozak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@bahrulrozak" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@bahrulrozak078" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@bahrulrozak078" height="30" width="40" /></a>
 </p>
-
-## Open Source Projects
-- [Laravel Modern Admin Dashboard](https://github.com/Bahrul-Rozak/Laravel-Modern-Admin-Dashboard)
-- [Perumahan Taman Kota Rajeg](https://github.com/Bahrul-Rozak/Perumahan-Taman-Kota-Rajeg)
-- [Online Learning Rakyat](https://github.com/Bahrul-Rozak/Online-Learning-Rakyat)
-- [E-Sekolah](https://github.com/Bahrul-Rozak/E-Sekolah)
 
 ## Learning Resources Free!
 - [Learn NodeJS](https://github.com/Bahrul-Rozak/Belajar-Node-JS)
