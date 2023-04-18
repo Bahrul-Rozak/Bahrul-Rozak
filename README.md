@@ -1,5 +1,5 @@
 <h1 align="left">Hi Assalamualaikum 👋, I'm Bahrul Rozak</h1>
-<h3 align="left">A passionate web developer from Indonesia</h3>
+<h3 align="left">A Software Engineer | Ex Pharmaceutical Care from Indonesia</h3>
 
 ![Welcome](https://i.pinimg.com/originals/72/3f/e9/723fe9bf86184230f7286634f3b74543.gif) 
 
