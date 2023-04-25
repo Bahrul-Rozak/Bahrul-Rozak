@@ -1,6 +1,8 @@
-<h1 align="left">Hi Assalamualaikum 👋, I'm Bahrul Rozak</h1>
-<h3 align="left">A Software Engineer | Ex Pharmaceutical Care from Indonesia</h3>
+<h1 align="center">Hi Assalamualaikum 👋, I'm Bahrul Rozak</h1>
 
+![Image](https://github.com/Bahrul-Rozak/Bahrul-Rozak/blob/master/Desktop%20-%201.png)
+
+<!--
 ![Welcome](https://i.pinimg.com/originals/72/3f/e9/723fe9bf86184230f7286634f3b74543.gif) 
 
 - 🌱 I’m currently learning **ReactJS, Vue JS x Laravel**
@@ -14,21 +16,20 @@
 
 ## Free Web Development Service for UMKM, Education, Humanitarian and other sector 
 - Term and condition applied
+-->
 
 ```
 🚧 Fulltime Worker (09.00 - 17.00 UTC +7) Monday untill Friday
 🥦 Freelance available start from 28 hours/weeks (Web Development, Adding Feature, Copywritter)
 ```
 
-## Learning Resources Free!
-- [Learn NodeJS](https://github.com/Bahrul-Rozak/Belajar-Node-JS)
-- [30 Days JavaScript Ramadhan Edition](https://github.com/Bahrul-Rozak/30-Hari-JavaScript-Ramadhan-Edition)
-
 # 📊 GitHub Stats:
 [![Bahrul Rozak's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Bahrul-Rozak&theme=dracula)](https://github.com/Bahrul-Rozak)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+![Welcome](https://i.pinimg.com/originals/72/3f/e9/723fe9bf86184230f7286634f3b74543.gif) 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
