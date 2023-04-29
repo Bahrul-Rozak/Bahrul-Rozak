@@ -1,5 +1,5 @@
 <h1 align="left">Hi Assalamualaikum 👋, I'm Bahrul Rozak</h1>
-<p align="justify">Self thaught software engineer ex pharmaceutical care from Indonesia, with some experience at company</P>
+<p align="justify">Software engineer ex pharmaceutical care from Indonesia, with some experience at company</P>
 
 ### Social Activities
 
@@ -16,11 +16,11 @@
 
 ### Experiences
 
-- RSUD Kota Tangerang (As a Pharmaceutical Care) - Kota Tangerang
-- RS Kesdam Jaya Daan Mogot (As a Pharmaceutical Care) - Kota Tangerang
+- [RSUD Kota Tangerang](https://rsud.tangerangkota.go.id/) (As a Pharmaceutical Care) - Kota Tangerang
+- [RS Kesdam Jaya Daan Mogot](https://www.instagram.com/rsdaanmogot/?hl=en) (As a Pharmaceutical Care) - Kota Tangerang
 - IDN STYLE (As a Web Developer) - Remote
 - Ruberfomik (As a Web Developer) - Remote
-- BPTI UHAMKA (As a Internship Web Developer) - Jakarta Timur
+- [BPTI UHAMKA](https://bpti.uhamka.ac.id/) (As a Internship Web Developer) - Jakarta Timur
 - Remote Work
 
 ### Favorite Tech Stacks
