@@ -19,6 +19,7 @@
 - RSUD Kota Tangerang (As a Pharmaceutical Care) - Kota Tangerang
 - RS Kesdam Jaya Daan Mogot (As a Pharmaceutical Care) - Kota Tangerang
 - IDN STYLE (As a Web Developer) - Remote
+- Ruberfomik (As a Web Developer) - Remote
 - BPTI UHAMKA (As a Internship Web Developer) - Jakarta Timur
 - Remote Work
 
