@@ -1,6 +1,8 @@
 <h1 align="left">Hi Assalamualaikum 👋, I'm Bahrul Rozak</h1>
+<img align='right' src="https://i.pinimg.com/originals/72/3f/e9/723fe9bf86184230f7286634f3b74543.gif" width="430">
 <p align="justify">Software engineer ex pharmaceutical care from Indonesia, with some experience at company</P>
 
+[![Omid Nikrah Medium](https://github-readme-medium.vercel.app/?username=bahrulrozak)](https://medium.com/@bahrulrozak)
 
 ### Social Activities
 
@@ -37,8 +39,9 @@
                                                                                                                                                                      
 # Bye!
 
-![Welcome](https://i.pinimg.com/originals/72/3f/e9/723fe9bf86184230f7286634f3b74543.gif) 
-
+<!-- ![Welcome](https://i.pinimg.com/originals/72/3f/e9/723fe9bf86184230f7286634f3b74543.gif) 
+ -->
+ 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/bahrul-rozak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/bahrul-rozak" height="30" width="40" /></a>
