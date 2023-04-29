@@ -29,10 +29,15 @@
 
 
 # 📊 GitHub Stats:
-[![Bahrul Rozak's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Bahrul-Rozak&theme=dracula)](https://github.com/Bahrul-Rozak)
+<p align="left">
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=Bahrul-Rozak&theme=dracula"  width="50%" height="30%">
+</P>
+                                                                                                                                                                                                                                                                                                                      
+<p align="left">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"  width="40%" height="30%">
+</p>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+# Bye!
 
 ![Welcome](https://i.pinimg.com/originals/72/3f/e9/723fe9bf86184230f7286634f3b74543.gif) 
 
