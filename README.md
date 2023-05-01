@@ -5,8 +5,8 @@
 
 ### Social Activities
 
-- Modul Belajar NodeJS dengan studi kasus [Klik Disini](https://github.com/Bahrul-Rozak/Belajar-Node-JS)
-- Modul 30 Hari Belajar Konsep JavaScript [Klik Disini](https://github.com/Bahrul-Rozak/30-Hari-JavaScript-Ramadhan-Edition)
+- Menulis Modul Belajar NodeJS dengan studi kasus [Klik Disini](https://github.com/Bahrul-Rozak/Belajar-Node-JS)
+- Menulis Modul 30 Hari Belajar Konsep JavaScript [Klik Disini](https://github.com/Bahrul-Rozak/30-Hari-JavaScript-Ramadhan-Edition)
 - Menulis Buku Mobile First Approach Guide [Klik Disini](https://www.researchgate.net/publication/366657605_Mobile_First_Approach_Guide)
 - Founder Online Learning Rakyat
 - Inisiator Tangerang.JS
