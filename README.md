@@ -13,8 +13,8 @@
 
 ### Educations
 
-- University of Muhammadiyah Prof. DR. HAMKA 
-- SMK Kesehatan Bina Prestasi Tangerang 
+- [University of Muhammadiyah Prof. DR. HAMKA](https://uhamka.ac.id/) 
+- [SMK Kesehatan Bina Prestasi Tangerang](https://www.instagram.com/smkkesbipta/?hl=en) 
 
 ### Experiences
 
