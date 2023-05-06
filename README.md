@@ -1,13 +1,13 @@
 <h1 align="left">Hi Assalamualaikum 👋, I'm Bahrul Rozak</h1>
-<p align="justify">Software engineer ex pharmaceutical care from Indonesia, with some experience at company</P>
+<p align="justify">Software engineer ex pharmaceutical care from Indonesia, with some experience at company. My favourite tech stack is #Huge familiy of JavaScript</P>
 
 <!-- [![Omid Nikrah Medium](https://github-readme-medium.vercel.app/?username=bahrulrozak)](https://medium.com/@bahrulrozak) -->
 
 ### Social Activities
 
-- Menulis Modul Belajar NodeJS dengan studi kasus [Klik Disini](https://github.com/Bahrul-Rozak/Belajar-Node-JS)
-- Menulis Modul 30 Hari Belajar Konsep JavaScript [Klik Disini](https://github.com/Bahrul-Rozak/30-Hari-JavaScript-Ramadhan-Edition)
-- Menulis Buku Mobile First Approach Guide [Klik Disini](https://www.researchgate.net/publication/366657605_Mobile_First_Approach_Guide)
+- Writing Learn Node JS Module with study case in Bahasa [Klik Disini](https://github.com/Bahrul-Rozak/Belajar-Node-JS)
+- Writing Learn JavaScript concept for 30 days in Bahasa  [Klik Disini](https://github.com/Bahrul-Rozak/30-Hari-JavaScript-Ramadhan-Edition)
+- Writing Book "Mobile First Approach Guide" [Klik Disini](https://www.researchgate.net/publication/366657605_Mobile_First_Approach_Guide)
 - Founder Online Learning Rakyat
 - Inisiator Tangerang.JS
 
@@ -19,9 +19,9 @@
 ### Experiences
 
 - [RSUD Kota Tangerang](https://rsud.tangerangkota.go.id/) (As a Pharmaceutical Care) - Kota Tangerang
-- [RS Kesdam Jaya Daan Mogot](https://www.instagram.com/rsdaanmogot/?hl=en) (As a Pharmaceutical Care) - Kota Tangerang
-- IDN STYLE (As a Web Developer) - Remote
-- Ruberfomik (As a Web Developer) - Remote
+- [RS Kesehatan Daerah Militer Jaya Daan Mogot](https://www.instagram.com/rsdaanmogot/?hl=en) (As a Pharmaceutical Care) - Kota Tangerang
+- IDN STYLE (As a Web Developer) - Remote Work
+- Ruberfomik (As a Web Developer) - Remote Work
 - [BPTI UHAMKA](https://bpti.uhamka.ac.id/) (As a Internship Web Developer) - Jakarta Timur
 - Remote Work
 
