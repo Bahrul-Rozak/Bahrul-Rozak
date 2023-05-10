@@ -8,8 +8,7 @@
 - Writing Learn Node JS Module with study case in Bahasa [Klik Disini](https://github.com/Bahrul-Rozak/Belajar-Node-JS)
 - Writing Learn JavaScript concept for 30 days in Bahasa  [Klik Disini](https://github.com/Bahrul-Rozak/30-Hari-JavaScript-Ramadhan-Edition)
 - Writing Book "Mobile First Approach Guide" [Klik Disini](https://www.researchgate.net/publication/366657605_Mobile_First_Approach_Guide)
-- Founder Online Learning Rakyat
-- Inisiator Tangerang.JS
+- Inisiator Full Snack Developer Group
 
 ### Educations
 
