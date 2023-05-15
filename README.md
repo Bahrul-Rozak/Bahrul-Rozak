@@ -20,12 +20,10 @@
 
 ### Experiences
 
-- [RSUD Kota Tangerang](https://rsud.tangerangkota.go.id/) (As a Pharmaceutical Care) - Kota Tangerang
-- [RS Kesehatan Daerah Militer Jaya Daan Mogot](https://www.instagram.com/rsdaanmogot/?hl=en) (As a Pharmaceutical Care) - Kota Tangerang
-- IDN STYLE (As a Web Developer) - Remote Work
-- Ruberfomik (As a Web Developer) - Remote Work
+- [RSUD Kota Tangerang](https://rsud.tangerangkota.go.id/) (As a Internship Pharmaceutical Care) - Kota Tangerang
+- [RS Kesehatan Daerah Militer Jaya Daan Mogot](https://www.instagram.com/rsdaanmogot/?hl=en) (As a Internship Pharmaceutical Care) - Kota Tangerang
 - [BPTI UHAMKA](https://bpti.uhamka.ac.id/) (As a Internship Web Developer) - Jakarta Timur
-- Remote Work
+
 
 <h2> Tech Stacks <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px> </h2>
 <a href= https://github.com/?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
