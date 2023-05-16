@@ -17,6 +17,7 @@
 
 ### See What Doing in My Work
 - [Gitlab](https://gitlab.com/users/bahrulrozak1453/projects)
+- [CV](https://docs.google.com/document/d/1H80l7JTeoq7NZpMiNVIWpFoe-xc0yCWJHaHFb49J9wo/edit?usp=sharing)
 
 ### Experiences
 
