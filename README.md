@@ -1,5 +1,5 @@
 <h1 align="left">Hi Assalamualaikum 👋, I'm Bahrul Rozak</h1>
-<p align="justify">Software engineer ex pharmaceutical care from Indonesia, with some experience at company.Currently i'm focused at Back End Engineering</P>
+<p align="justify">Software engineer ex pharmaceutical care from Indonesia, with some experience at company. Currently i'm focused learn all Back End Engineering Technology</P>
 
 <!-- [![Omid Nikrah Medium](https://github-readme-medium.vercel.app/?username=bahrulrozak)](https://medium.com/@bahrulrozak) -->
 
