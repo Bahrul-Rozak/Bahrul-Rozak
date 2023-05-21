@@ -1,6 +1,8 @@
 <h1 align="left">Hi Assalamualaikum 👋, I'm Bahrul Rozak</h1>
 <p align="justify">Software engineer ex pharmaceutical care from Indonesia, with some experience at company. Currently i'm focused learn all Back End Engineering Technology</P>
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=y815lrm95x23ga03elyv3x2jc&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
 <!-- [![Omid Nikrah Medium](https://github-readme-medium.vercel.app/?username=bahrulrozak)](https://medium.com/@bahrulrozak) -->
 
 ### Social Activities
@@ -41,12 +43,12 @@
 <img src="https://streak-stats.demolab.com?user=Bahrul-Rozak&theme=radical"  width="40%" height="30%">
 </P>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=y815lrm95x23ga03elyv3x2jc&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
-                                                                                                                                                                     
-# Bye!
+
+
+                                                                                                                  
 <!-- <img align='left' src="https://i.pinimg.com/originals/72/3f/e9/723fe9bf86184230f7286634f3b74543.gif" width="230"> -->
-![Welcome](https://i.pinimg.com/originals/72/3f/e9/723fe9bf86184230f7286634f3b74543.gif) 
- 
+<!-- ![Welcome](https://i.pinimg.com/originals/72/3f/e9/723fe9bf86184230f7286634f3b74543.gif) 
+  -->
  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
