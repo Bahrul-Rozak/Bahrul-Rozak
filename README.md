@@ -41,7 +41,7 @@
 <img src="https://streak-stats.demolab.com?user=Bahrul-Rozak&theme=radical"  width="40%" height="30%">
 </P>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=y815lrm95x23ga03elyv3x2jc&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=y815lrm95x23ga03elyv3x2jc&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
                                                                                                                                                                      
 # Bye!
 <!-- <img align='left' src="https://i.pinimg.com/originals/72/3f/e9/723fe9bf86184230f7286634f3b74543.gif" width="230"> -->
