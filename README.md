@@ -1,5 +1,12 @@
-<h1 align="left">Hi Assalamualaikum 👋, I'm Bahrul Rozak</h1>
-<p align="justify">Software engineer ex pharmaceutical care from Indonesia, with some experience at company. Currently i'm focused learn all Back End Engineering Technology</P>
+```javascript
+const userProfile = { 
+  fullName:"Bahrul Rozak",
+  role:"Back End Engineer",
+  technologies:"JavaScript, PHP, Python",
+  backEndTechnologies:"Express, Laravel, MySQL, Insomnia",
+  reminder: "Duniaku terasa sesak, runtuh & hampa tatkala ku teringatmu Ya Rasulullah ﷺ"
+}
+```
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=y815lrm95x23ga03elyv3x2jc&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
