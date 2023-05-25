@@ -4,7 +4,8 @@ const userProfile = {
   role:"Back End Engineer",
   technologies:"JavaScript, PHP, Python",
   backEndTechnologies:"Express, Laravel, MySQL, Insomnia",
-  reminder: "Aku tidak khawatir dengan masa depan. Tapi yang aku khawatirkan apakah Rasulullah ﷺ menerimaku sebagai umatnya?"
+  reminder: "Aku tidak khawatir dengan masa depan. Tapi yang aku khawatirkan 
+             apakah Rasulullah ﷺ kelak mau menerimaku sebagai umatnya?"
 }
 ```
 
