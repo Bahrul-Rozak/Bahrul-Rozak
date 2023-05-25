@@ -4,7 +4,7 @@ const userProfile = {
   role:"Back End Engineer",
   technologies:"JavaScript, PHP, Python",
   backEndTechnologies:"Express, Laravel, MySQL, Insomnia",
-  reminder: "Duniaku terasa sesak, runtuh & hampa tatkala ku teringatmu Ya Rasulullah ﷺ"
+  reminder: "Aku tidak khawatir dengan masa depan. Tapi yang aku khawatirkan apakah Rasulullah ﷺ menerimaku sebagai umatnya?"
 }
 ```
 
