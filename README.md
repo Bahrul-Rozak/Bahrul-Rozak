@@ -42,17 +42,6 @@ const userProfile = {
     <img src="https://skillicons.dev/icons?i=bootstrap,js,php,python,laravel,nodejs,postman,mysql,django,express,figma,firebase,gatsby,gitlab,graphql,md,mongodb,sequelize" />
   </a>
 </p>
-
-
-
-### 🌳 GitHub Stats
-<p align="center">
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=Bahrul-Rozak&theme=dracula"  width="50%" height="30%">
-<img src="https://streak-stats.demolab.com?user=Bahrul-Rozak&theme=radical"  width="40%" height="30%">
-</P>
-
-
-
                                                                                                                   
 <!-- <img align='left' src="https://i.pinimg.com/originals/72/3f/e9/723fe9bf86184230f7286634f3b74543.gif" width="230"> -->
 <!-- ![Welcome](https://i.pinimg.com/originals/72/3f/e9/723fe9bf86184230f7286634f3b74543.gif) 
