@@ -4,6 +4,7 @@ const userProfile = {
   role:"Back End Engineer",
   technologies:"JavaScript, PHP, Python",
   backEndTechnologies:"Express, Laravel, MySQL, Insomnia",
+  funFact:"I work for 2 phase, 1 phase at 09.00-17.00, 1 phase again at 22.00 - 06.00",
   reminder: "Aku tidak khawatir dengan masa depan. Tapi yang aku khawatirkan 
              apakah Rasulullah ﷺ kelak mau menerimaku sebagai umatnya?"
 }
