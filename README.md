@@ -4,7 +4,6 @@ const userProfile = {
   role:"Back End Engineer",
   technologies:"JavaScript, PHP, Python",
   backEndTechnologies:"Express, Laravel, MySQL, Insomnia",
-  funFact:"I work for 2 phase, 1 phase at 09.00-17.00, 1 phase again at 22.00 - 06.00",
   reminder: "Aku tidak khawatir dengan masa depan. Tapi yang aku khawatirkan 
              apakah Rasulullah ﷺ kelak mau menerimaku sebagai umatnya?"
 }
@@ -19,8 +18,6 @@ const userProfile = {
 - Writing Learn Node JS Module with study case in Bahasa [Klik Disini](https://github.com/Bahrul-Rozak/Belajar-Node-JS)
 - Writing Learn JavaScript concept for 30 days in Bahasa  [Klik Disini](https://github.com/Bahrul-Rozak/30-Hari-JavaScript-Ramadhan-Edition)
 - Writing Book "Mobile First Approach Guide" [Klik Disini](https://www.researchgate.net/publication/366657605_Mobile_First_Approach_Guide)
-- Inisiator Full Snack Developer Group
-- Programming Instructor [Click Here](https://www.udemy.com/user/bahrul-rozak-2/)
 
 ### 🍀 Educations
 
@@ -28,7 +25,6 @@ const userProfile = {
 - [SMK Kesehatan Bina Prestasi Tangerang](https://www.instagram.com/smkkesbipta/?hl=en) 
 
 ### 🌿 See What Doing in My Work
-- [Gitlab](https://gitlab.com/users/bahrulrozak1453/projects)
 - [CV](https://docs.google.com/document/d/1H80l7JTeoq7NZpMiNVIWpFoe-xc0yCWJHaHFb49J9wo/edit?usp=sharing)
 
 ### 🍃 Experiences
