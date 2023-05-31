@@ -4,7 +4,7 @@ const userProfile = {
   role:"Back End Engineer",
   technologies:"JavaScript, PHP, Python",
   backEndTechnologies:"Express, Laravel, MySQL, Insomnia",
-  funFact: "Lebih nyambung diskusi sama bapak-bapak, dari pada generasi, aneh? Kan",
+  funFact: "Lebih nyambung diskusi sama bapak-bapak, dari pada generasi Z, aneh? Kan",
   reminder: "Aku tidak khawatir dengan masa depan. Tapi yang aku khawatirkan 
              apakah Rasulullah ﷺ kelak mau menerimaku sebagai umatnya?"
 }
