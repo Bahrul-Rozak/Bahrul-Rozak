@@ -30,10 +30,10 @@ const userProfile = {
 
 ### 🍃 Experiences
 
-- [RSUD Kota Tangerang](https://rsud.tangerangkota.go.id/) (As a Internship Pharmaceutical Care) - Kota Tangerang
-- [RS Kesehatan Daerah Militer Jaya Daan Mogot](https://www.instagram.com/rsdaanmogot/?hl=en) (As a Internship Pharmaceutical Care) - Kota Tangerang
-- [BPTI UHAMKA](https://bpti.uhamka.ac.id/) (As a Internship Web Developer) - Jakarta Timur
-
+- [RSUD Kota Tangerang](https://rsud.tangerangkota.go.id/) (As a Internship Pharmaceutical Care) - Kota Tangerang - Finished 
+- [RS Kesehatan Daerah Militer Jaya Daan Mogot](https://www.instagram.com/rsdaanmogot/?hl=en) (As a Internship Pharmaceutical Care) - Kota Tangerang - Finished 
+- [BPTI UHAMKA](https://bpti.uhamka.ac.id/) (As a Internship Web Developer) - Jakarta Timur - Finished 
+- Full Time Remote (As Software engineer) for client at Bangalore, India and Canada. - Now
 
 <h3 align="left"> 🌲 Languages and Tools:</h3>
 <p align="left">
