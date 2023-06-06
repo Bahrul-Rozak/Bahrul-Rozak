@@ -1,16 +1,6 @@
-```javascript
-const userProfile = { 
-  fullName:"Bahrul Rozak",
-  role:"Back End Engineer",
-  technologies:"JavaScript, PHP, Python",
-  backEndTechnologies:"Express, Laravel, MySQL, Insomnia",
-  funFact: "Lebih nyambung diskusi sama bapak-bapak, dari pada generasi Z, aneh? Kan",
-  reminder: "Aku tidak khawatir dengan masa depan. Tapi yang aku khawatirkan 
-             apakah Rasulullah ﷺ kelak mau menerimaku sebagai umatnya?"
-}
-```
+![Images](https://github.com/Bahrul-Rozak/Bahrul-Rozak/blob/master/wallpapers%20(1).png)
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=y815lrm95x23ga03elyv3x2jc&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
 
 <!-- [![Omid Nikrah Medium](https://github-readme-medium.vercel.app/?username=bahrulrozak)](https://medium.com/@bahrulrozak) -->
 
@@ -56,6 +46,8 @@ const userProfile = {
 <a href="https://medium.com/@bahrulrozak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@bahrulrozak" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@bahrulrozak078" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@bahrulrozak078" height="30" width="40" /></a>
 </p>
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=y815lrm95x23ga03elyv3x2jc&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Bahrul-Rozak&icon=0&color=0)](https://visitcount.itsvg.in)
