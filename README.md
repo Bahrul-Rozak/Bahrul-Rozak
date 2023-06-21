@@ -4,6 +4,7 @@
 - Writing Learn JavaScript concept for 30 days in Bahasa  [Klik Disini](https://github.com/Bahrul-Rozak/30-Hari-JavaScript-Ramadhan-Edition)
 - Writing Book "Mobile First Approach Guide" [Klik Disini](https://www.researchgate.net/publication/366657605_Mobile_First_Approach_Guide)
 - Software Engineering Bootcamp (From zero to master) [Access Here](https://github.com/Bahrul-Rozak/Software-Engineering-Bootcamp)
+- Writing Module [Mastering Node JS](https://github.com/Bahrul-Rozak/mastering-node-js)
 
 ### 🍀 Educations
 
@@ -12,6 +13,7 @@
 
 ### 🌿 See What Doing in My Work
 - [CV](https://docs.google.com/document/d/1H80l7JTeoq7NZpMiNVIWpFoe-xc0yCWJHaHFb49J9wo/edit?usp=sharing)
+- [Another Work](https://gitlab.com/bahrulrozak1453) 
 
 ### 🍃 Experiences
 
