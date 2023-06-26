@@ -12,8 +12,7 @@
 - [SMK Kesehatan Bina Prestasi Tangerang](https://www.instagram.com/smkkesbipta/?hl=en) 
 
 ### 🌿 See What Doing in My Work
-- [CV](https://docs.google.com/document/d/1H80l7JTeoq7NZpMiNVIWpFoe-xc0yCWJHaHFb49J9wo/edit?usp=sharing)
-- [Another Work](https://gitlab.com/bahrulrozak1453) 
+- [CV](https://docs.google.com/document/d/1cf6IZDwbjln8gUfIS2zVHWecfHGq7O8M0OB6JbpLAGI/edit?usp=sharing)
 
 ### 🍃 Experiences
 
