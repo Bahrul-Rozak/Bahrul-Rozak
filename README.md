@@ -20,7 +20,7 @@
 - [RS Kesehatan Daerah Militer Jaya Daan Mogot](https://www.instagram.com/rsdaanmogot/?hl=en) (As a Internship Pharmaceutical Care) - Kota Tangerang - Finished 
 - [BPTI UHAMKA](https://bpti.uhamka.ac.id/) (As a Internship Web Developer) - Jakarta Timur - Finished
 - Freelance Fullstack Developer - Asian Regional - Now (Start with fixed price or hourly 12$/hours)
-- Fullstack Enginner - Now (PT Inovasi Mitra Sejati)
+- Fullstack Engineer - Now (PT Inovasi Mitra Sejati)
 
 <h3 align="left">Currently Learning and Focus:</h3>
 <p align="left"> 
