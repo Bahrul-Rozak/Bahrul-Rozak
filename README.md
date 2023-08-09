@@ -11,9 +11,6 @@
 - [University of Muhammadiyah Prof. DR. HAMKA](https://uhamka.ac.id/) 
 - [SMK Kesehatan Bina Prestasi Tangerang](https://www.instagram.com/smkkesbipta/?hl=en) 
 
-### 🌿 See What Doing in My Work
-- [CV](https://docs.google.com/document/d/1cf6IZDwbjln8gUfIS2zVHWecfHGq7O8M0OB6JbpLAGI/edit?usp=sharing)
-
 ### 🍃 Experiences
 
 - [RSUD Kota Tangerang](https://rsud.tangerangkota.go.id/) (As a Internship Pharmaceutical Care) - Kota Tangerang - Finished 
