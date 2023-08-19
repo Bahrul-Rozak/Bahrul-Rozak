@@ -18,7 +18,7 @@
 - [BPTI UHAMKA](https://bpti.uhamka.ac.id/) (As a Internship Web Developer) - Jakarta Timur - Finished
 - Freelance Fullstack Developer - Asian Regional - Now (Start with fixed price or hourly 12$/hours)
 - [Smart Village Eco](https://github.com/smart-village-group) (As Initiatior) - Now
-- PT. Indocodebase Group (As Chief Technology Officer) - Now
+- [PT. Indocodebase Group](https://ibase-group.vercel.app/) (As Chief Technology Officer) - Now
 - PT. Inovasi Mitra Sejati (As Fullstack Engineer) - Now
 
 <h3 align="left">Currently Learning and Focus:</h3>
