@@ -34,7 +34,6 @@
 - [RSUD Kota Tangerang](https://rsud.tangerangkota.go.id/) (As a Internship Pharmaceutical Care) - Kota Tangerang - Finished 
 - [RS Kesehatan Daerah Militer Jaya Daan Mogot](https://www.instagram.com/rsdaanmogot/?hl=en) (As a Internship Pharmaceutical Care) - Kota Tangerang - Finished 
 - [BPTI UHAMKA](https://bpti.uhamka.ac.id/) (As a Internship Web Developer) - Jakarta Timur - Finished
-- Freelance Fullstack Developer - Asian Regional - Now (Start with fixed price or hourly 12$/hours)
 - [Smart Village Eco](https://github.com/smart-village-group) (As Initiatior) - Now
 - PT. Inovasi Mitra Sejati (As Fullstack Engineer) - Now
                                                                                                                 
