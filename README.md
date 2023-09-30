@@ -1,20 +1,9 @@
-<h3 align="left">⚙️ Open Source Project : Web App | Tools | Utility</h3>
+<p align="justify">I have been doing JavaScript Developer for 2+ years. I'm enthusiastic Web Development that enjoy writing JavaScript code. Throughout the years I have mastered in a lot JavaScript technologies, such as: React JS, Next JS, Remix JS. I'm a goal oriented person and love to work in a new environment. Love it so much! I'm fluent in English both speaking and writing. Do have a talk to me? I will enjoy talking back to you!
 
-| Name of Project | Description  |  Link |
-| --------------- | ------------ |  ---- |
-|  Smart Inventory Management System | Inventory Management with complex module      | [Click](https://github.com/Bahrul-Rozak/Smart-Inventory-Management-System)       |
-|  Vue AdminLTE                      | Integration adminlte with vuejs               | [Click](https://github.com/Bahrul-Rozak/Vue-AdminLTE)                            |
-| X Code Analysis Metrics Tools      | Find potential bug, increase your performance | [Click](https://github.com/Bahrul-Rozak/X-Code-Analysis-Metrics-Tool)            |
-| Learning Management System         | Learning management system with microservices architecture | [Click](https://github.com/Bahrul-Rozak/Learning-Management-System) |
-| Architect JS                       | A console application to generate projects for popular architectures using Node.js | [Click](https://github.com/Bahrul-Rozak/ArchitectJS) |
-| Admin Backend Auth Starter Kit     | Admin backend auth starter kit, include login, register, forget password, CRUD profile | [Click](https://github.com/Bahrul-Rozak/Admin-Backend-Auth-Starter-Kit) |
-| Text to Speech Converting Software | Text to speech converting software | [Click](https://github.com/Bahrul-Rozak/Text-to-Speech-Converting-Software) |
-| Python Fake Data Generator         | Fake data generator dashboard      | [Click](https://github.com/Bahrul-Rozak/Python-Fake-Data-Generator-Dashboard) |
-| SQL Playground App                 | Interactive website for play SQL   | [Click](https://github.com/Bahrul-Rozak/SQL-Playground-App) |
-| Code Ternary                       | convert if else to ternary operator and vice versa. | [Click](https://github.com/Bahrul-Rozak/Code-Ternary)|
-| React Atomicity | Started kit based on architecture design such as atomic design, molecules design, organisms design, pages and template | [Click](https://github.com/Bahrul-Rozak/React-Atomicity)|
-| JavaScript Hijri Converter     | Hijri Converter using JavaScript | [Click](https://github.com/Bahrul-Rozak/JavaScript-Hijri-Converter)|
-| Perum Taman Kota Rajeg         | Project Client using VueJS + Laravel | [Click](https://github.com/Bahrul-Rozak/Perumahan-Taman-Kota-Rajeg)|
+</p>
+
+Let's make better world with JavaScript :D
+
 
 ### 🌱 Social Activities
 
