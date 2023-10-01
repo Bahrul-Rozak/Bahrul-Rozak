@@ -4,6 +4,10 @@
 
 Let's make better world with JavaScript :D
 
+### Latest Article
+
+[![Bahrul Rozak](https://github-readme-medium.vercel.app/?username=bahrulrozak)](https://medium.com/@bahrulrozak)
+
 
 ### 🌱 Social Activities
 
