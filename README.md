@@ -36,14 +36,11 @@ Let's make better world with JavaScript :D
 <!-- ![Welcome](https://i.pinimg.com/originals/72/3f/e9/723fe9bf86184230f7286634f3b74543.gif) 
   -->
 
-### ⚙️ Tech Stack
-![Bootstrap](https://img.shields.io/badge/-html5-05122A?style=for-the-badge&logo=html5&color=353535) 
-![Bootstrap](https://img.shields.io/badge/-css3-05122A?style=for-the-badge&logo=css3&color=353535) 
-![Bootstrap](https://img.shields.io/badge/-javascript-05122A?style=for-the-badge&logo=javascript&color=353535) 
-![Bootstrap](https://img.shields.io/badge/-typescript-05122A?style=for-the-badge&logo=typescript&color=353535) 
-![Bootstrap](https://img.shields.io/badge/-react-05122A?style=for-the-badge&logo=react&color=353535) 
-![Bootstrap](https://img.shields.io/badge/-jasmine-05122A?style=for-the-badge&logo=jasmine&color=353535) 
-![Bootstrap](https://img.shields.io/badge/-jest-05122A?style=for-the-badge&logo=jest&color=353535)
+### ⚙️ Tech Stack for professional job now
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,remix,next&theme=light)](https://skillicons.dev)
+
+### ⚙️ Another Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=angular,vue,net,nuxt,nest,redux,ruby,sequelize,tailwind,bootstrap,python,django,flask,go,php,laravel&theme=light)](https://skillicons.dev)
 
 <h3 align="left"> 🌴 Connect with me:</h3>
 <p align="left">
