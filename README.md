@@ -9,19 +9,6 @@ Let's make better world with JavaScript :D
 [![Bahrul Rozak](https://github-readme-medium.vercel.app/?username=bahrulrozak)](https://medium.com/@bahrulrozak)
 
 
-### 🌱 Social Activities
-
-- Writing Learn Node JS Module with study case in Bahasa [Klik Disini](https://github.com/Bahrul-Rozak/Belajar-Node-JS)
-- Writing Learn JavaScript concept for 30 days in Bahasa  [Klik Disini](https://github.com/Bahrul-Rozak/30-Hari-JavaScript-Ramadhan-Edition)
-- Writing Book "Mobile First Approach Guide" [Klik Disini](https://www.researchgate.net/publication/366657605_Mobile_First_Approach_Guide)
-- Software Engineering Bootcamp (From zero to master) [Access Here](https://github.com/Bahrul-Rozak/Software-Engineering-Bootcamp)
-- Writing Module [Mastering Node JS](https://github.com/Bahrul-Rozak/mastering-node-js)
-
-### 🍀 Educations
-
-- [University of Muhammadiyah Prof. DR. HAMKA](https://uhamka.ac.id/) 
-- [SMK Kesehatan Bina Prestasi Tangerang](https://www.instagram.com/smkkesbipta/?hl=en) 
-
 ### 🍃 Adventures 
 
 - ~Indonesian Web Developer - Alhamdulillah~
