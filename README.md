@@ -22,14 +22,13 @@ Let's make better world with JavaScript :D
 - [University of Muhammadiyah Prof. DR. HAMKA](https://uhamka.ac.id/) 
 - [SMK Kesehatan Bina Prestasi Tangerang](https://www.instagram.com/smkkesbipta/?hl=en) 
 
-### 🍃 Experiences
+### 🍃 Adventures 
 
-- [RSUD Kota Tangerang](https://rsud.tangerangkota.go.id/) (As a Internship Pharmaceutical Care) - Kota Tangerang - Finished 
-- [RS Kesehatan Daerah Militer Jaya Daan Mogot](https://www.instagram.com/rsdaanmogot/?hl=en) (As a Internship Pharmaceutical Care) - Kota Tangerang - Finished 
-- [BPTI UHAMKA](https://bpti.uhamka.ac.id/) (As a Internship Web Developer) - Jakarta Timur - Finished
-- [Smart Village Eco](https://github.com/smart-village-group) (As Initiatior) - Now
-
-                                                                                                                
+- ~Indonesian Web Developer - Alhamdulillah~
+- ~Malaysia React JS Developer- Alhamdulillah~
+- Upwork - Bismillah focus and let's get started :D
+- Remoteok - After UpWork
+- Expand Your PT in bahasa is Perseroan Terbatas                                                                                                            
 <!-- <img align='left' src="https://i.pinimg.com/originals/72/3f/e9/723fe9bf86184230f7286634f3b74543.gif" width="230"> -->
 <!-- ![Welcome](https://i.pinimg.com/originals/72/3f/e9/723fe9bf86184230f7286634f3b74543.gif) 
   -->
