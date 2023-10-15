@@ -4,18 +4,16 @@
 
 Let's make better world with JavaScript :D
 
-### Latest Article
+<!-- ### Latest Article
 
 [![Bahrul Rozak](https://github-readme-medium.vercel.app/?username=bahrulrozak)](https://medium.com/@bahrulrozak)
+--> 
 
 
 ### 🍃 Adventures 
+![](https://raw.githubusercontent.com/Bahrul-Rozak/Bahrul-Rozak/master/experience.png) 
 
-- ~Indonesian Web Developer - Alhamdulillah~
-- ~Malaysia React JS Developer- Alhamdulillah~
-- Upwork - Bismillah focus and let's get started :D
-- Remoteok - After UpWork
-- Expand Your PT in bahasa is Perseroan Terbatas                                                                                                            
+                                                                                                        
 <!-- <img align='left' src="https://i.pinimg.com/originals/72/3f/e9/723fe9bf86184230f7286634f3b74543.gif" width="230"> -->
 <!-- ![Welcome](https://i.pinimg.com/originals/72/3f/e9/723fe9bf86184230f7286634f3b74543.gif) 
   -->
