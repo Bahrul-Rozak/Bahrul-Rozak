@@ -4,12 +4,27 @@
 
 Let's make better world with JavaScript :D
 
-[See Adventure](https://docs.google.com/document/d/1t2EFqw4baDLh9AVIMyDSsa1mFEXGzcm89cbACQVjG_E/edit?usp=sharing)
-                                                                        
-
 ### Lovely working with
 [![My Skills](https://skillicons.dev/icons?i=js,ts,react,next,laravel&theme=light)](https://skillicons.dev)
 
+### Adventures!
+```python
+1 Web Developer, PT IMS
+As a web developer,
+I am responsible for adding features and fixing bugs in several modules
+in the Ifinancing product with microservices architecture using Angular JS and collaboration using SVN Tortoise.
+
+#2 Web Developer, BPTI UHAMKA
+As a Web Developer,
+I am responsible for carrying out maintenance, fixing bugs and additions features in several web applications
+using CodeIgniter and Laravel technology and also collaborating with several stakeholders and teammates to
+produce a solution.
+
+#3 Web Developer, UHAMKA
+As a web developer, I am responsible for carrying out maintenance for the smooth running of the Teknoka 6 UHAMKA event.
+```
+
+[See All My Adventure!](https://docs.google.com/document/d/1t2EFqw4baDLh9AVIMyDSsa1mFEXGzcm89cbACQVjG_E/edit?usp=sharing)
 
 
 <h3 align="left"> 🌴 Connect with me:</h3>
