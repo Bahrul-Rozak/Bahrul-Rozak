@@ -44,3 +44,6 @@ As a web developer, I am responsible for carrying out maintenance for the smooth
 [![](https://visitcount.itsvg.in/api?id=Bahrul-Rozak&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+### See you at amazing collaboration!
+![image](https://media.tenor.com/0C8klDvuopYAAAAd/mercedes-benz-mercedes.gif)
