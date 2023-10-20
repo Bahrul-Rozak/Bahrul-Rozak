@@ -1,4 +1,4 @@
-<p align="justify">I have been doing JavaScript Developer for 2+ years. I'm enthusiastic Web Development that enjoy writing JavaScript code. Throughout the years I have mastered in a lot JavaScript technologies, such as: React JS, Next JS, Remix JS. I'm a goal oriented person and love to work in a new environment. Love it so much! I'm fluent in English both speaking and writing. Do have a talk to me? I will enjoy talking back to you!
+<p align="justify">I have been doing JavaScript Developer for 2+ years. I'm enthusiastic Web Development that enjoy writing JavaScript code. Throughout the years I have mastered in a lot JavaScript technologies, such as: React JS, Next JS. I'm a goal oriented person and love to work in a new environment. Love it so much! I'm fluent in English both speaking and writing. Do have a talk to me? I will enjoy talking back to you!
 
 </p>
 
@@ -7,11 +7,10 @@ Let's make better world with JavaScript :D
 
                                                                         
 
-### ⚙️ Tech Stack for professional job now
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,remix,next&theme=light)](https://skillicons.dev)
+### Lovely working with
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,next,laravel&theme=light)](https://skillicons.dev)
 
-### ⚙️ Another Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=angular,vue,net,nuxt,nest,redux,ruby,sequelize,tailwind,bootstrap,python,django,flask,go,php,laravel&theme=light)](https://skillicons.dev)
+
 
 <h3 align="left"> 🌴 Connect with me:</h3>
 <p align="left">
