@@ -5,7 +5,12 @@
 Let's make better world with JavaScript :D
 
 ### Lovely working with
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,next,laravel&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,angular,nodejs,next,laravel,bootstrap&theme=light)](https://skillicons.dev)
+
+### Building
+- @kabardesa
+- @portalsekolah
+
 
 ### Adventures!
 ```python
