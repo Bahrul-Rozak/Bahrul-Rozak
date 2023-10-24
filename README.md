@@ -29,7 +29,9 @@ produce a solution.
 As a web developer, I am responsible for carrying out maintenance for the smooth running of the Teknoka 6 UHAMKA event.
 ```
 
-[See All My Adventure!](https://docs.google.com/document/d/1t2EFqw4baDLh9AVIMyDSsa1mFEXGzcm89cbACQVjG_E/edit?usp=sharing)
+[See All My Adventure!](https://docs.google.com/document/d/1t2EFqw4baDLh9AVIMyDSsa1mFEXGzcm89cbACQVjG_E/edit?usp=sharing) 
+
+[Check My Portfolio](https://docs.google.com/presentation/d/18h4GVEnDSGAYLsk-8TAvZOTf_F2T9tQUAzckKjKYzgM/edit?usp=sharing)
 
 
 <h3 align="left"> 🌴 Connect with me:</h3>
