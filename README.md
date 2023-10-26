@@ -1,4 +1,4 @@
-[![image](https://github.com/Bahrul-Rozak/Bahrul-Rozak/assets/57394564/048ae50a-982b-4080-bde4-90aa906a8be1)](https://drive.google.com/drive/folders/1-ZllrC7H90H1Zmn7swb1Y-tFjD6UVaQp?usp=sharing)
+[Portfolio](https://drive.google.com/drive/folders/1-ZllrC7H90H1Zmn7swb1Y-tFjD6UVaQp?usp=sharing)
 
 
 Let's make better world with JavaScript :D
