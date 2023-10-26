@@ -1,6 +1,5 @@
-<p align="justify">I have been doing JavaScript Developer for 2+ years. I'm enthusiastic Web Development that enjoy writing JavaScript code. Throughout the years I have mastered in a lot JavaScript technologies, such as: React JS, Next JS. I'm a goal oriented person and love to work in a new environment. Love it so much! I'm fluent in English both speaking and writing. Do have a talk to me? I will enjoy talking back to you!
+[![image](https://github.com/Bahrul-Rozak/Bahrul-Rozak/assets/57394564/048ae50a-982b-4080-bde4-90aa906a8be1)](https://drive.google.com/drive/folders/1-ZllrC7H90H1Zmn7swb1Y-tFjD6UVaQp?usp=sharing)
 
-</p>
 
 Let's make better world with JavaScript :D
 
@@ -28,10 +27,6 @@ produce a solution.
 #3 Web Developer, UHAMKA
 As a web developer, I am responsible for carrying out maintenance for the smooth running of the Teknoka 6 UHAMKA event.
 ```
-
-[See All My Adventure!](https://docs.google.com/document/d/1t2EFqw4baDLh9AVIMyDSsa1mFEXGzcm89cbACQVjG_E/edit?usp=sharing) 
-
-[Check My Portfolio](https://docs.google.com/presentation/d/18h4GVEnDSGAYLsk-8TAvZOTf_F2T9tQUAzckKjKYzgM/edit?usp=sharing)
 
 
 <h3 align="left"> 🌴 Connect with me:</h3>
