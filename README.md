@@ -13,18 +13,25 @@ Let's make better world with JavaScript :D
 
 ### Adventures!
 ```python
-1 Web Developer, PT IMS
+# 0 Owner Kelas Developer.com
+As a owner, I am responsible for help local developer to growth and unlock their hidden potential to remote work.
+With best of the best curriculum
+
+# 1  Founder, PT Indocodebase Group Non TBK
+As founder, i am reponsible for growth, expand company, management all resource, etc..
+
+# 2 Web Developer, PT IMS
 As a web developer,
 I am responsible for adding features and fixing bugs in several modules
 in the Ifinancing product with microservices architecture using Angular JS and collaboration using SVN Tortoise.
 
-#2 Web Developer, BPTI UHAMKA
+#3 Web Developer, BPTI UHAMKA
 As a Web Developer,
 I am responsible for carrying out maintenance, fixing bugs and additions features in several web applications
 using CodeIgniter and Laravel technology and also collaborating with several stakeholders and teammates to
 produce a solution.
 
-#3 Web Developer, UHAMKA
+#4 Web Developer, UHAMKA
 As a web developer, I am responsible for carrying out maintenance for the smooth running of the Teknoka 6 UHAMKA event.
 ```
 
