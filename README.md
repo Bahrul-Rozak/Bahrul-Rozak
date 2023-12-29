@@ -11,9 +11,6 @@ Let's make better world with JavaScript :D
 - @portalsekolah
 - @portalsatudata
 
-### Writing
-- Menjadi JavaScript Developer sabuk Putih 50+ readers | $12
-
 ### Adventures!
 ```python
 # 0 Owner Kelas Developer.com
