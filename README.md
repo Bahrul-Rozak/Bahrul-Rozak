@@ -1,39 +1,17 @@
-[Portfolio](https://drive.google.com/drive/folders/1-ZllrC7H90H1Zmn7swb1Y-tFjD6UVaQp?usp=sharing)
+<p align="justify">
+a dedicated and efficient Sotware Developer with 2+ years experience in web application development using modern technology such as microservice o monolitich architecture and MVC concepts, have the ability to work together and good communication, have an interest and passion for learning new technologies
+</p>
 
-
-Let's make better world with JavaScript :D
 
 ### Lovely working with
 [![My Skills](https://skillicons.dev/icons?i=js,ts,react,angular,nodejs,next,laravel,bootstrap&theme=light)](https://skillicons.dev)
 
-### Building
-- @kabardesa
-- @portalsekolah
-- @portalsatudata
+### Full Stack Maker at
+| Product | Revenue/month |
+| ------- | ------- |
+| @kelas_developer    | $400+ |
+| @indocodebase_group | $150+ |
 
-### Adventures!
-```python
-# 0 Owner Kelas Developer.com
-As a owner, I am responsible for help local developer to growth and unlock their hidden potential to remote work.
-With best of the best curriculum
-
-# 1  Founder, PT Indocodebase Group Non TBK
-As founder, i am reponsible for growth, expand company, management all resource, etc..
-
-# 2 Web Developer, PT IMS
-As a web developer,
-I am responsible for adding features and fixing bugs in several modules
-in the Ifinancing product with microservices architecture using Angular JS and collaboration using SVN Tortoise.
-
-#3 Web Developer, BPTI UHAMKA
-As a Web Developer,
-I am responsible for carrying out maintenance, fixing bugs and additions features in several web applications
-using CodeIgniter and Laravel technology and also collaborating with several stakeholders and teammates to
-produce a solution.
-
-#4 Web Developer, UHAMKA
-As a web developer, I am responsible for carrying out maintenance for the smooth running of the Teknoka 6 UHAMKA event.
-```
 
 
 <h3 align="left"> 🌴 Connect with me:</h3>
@@ -54,5 +32,3 @@ As a web developer, I am responsible for carrying out maintenance for the smooth
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-### See you at amazing collaboration!
-![image](https://media.tenor.com/0C8klDvuopYAAAAd/mercedes-benz-mercedes.gif)
