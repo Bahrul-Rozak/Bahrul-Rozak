@@ -1,5 +1,5 @@
 <p align="justify">
-a dedicated and efficient Sotware Developer with 2+ years experience in web application development using modern technology such as microservice o monolitich architecture and MVC concepts, have the ability to work together and good communication, have an interest and passion for learning new technologies
+a dedicated and efficient Sotware Developer with 1+ years experience in web application development using modern technology such as microservice o monolitich architecture and MVC concepts, have the ability to work together and good communication, have an interest and passion for learning new technologies
 </p>
 
 
