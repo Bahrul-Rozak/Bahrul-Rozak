@@ -1,10 +1,10 @@
+### About Me
 <p align="justify">
-a dedicated and efficient Sotware Developer with 1+ years experience in web application development using modern technology such as microservice o monolitich architecture and MVC concepts, have the ability to work together and good communication, have an interest and passion for learning new technologies
+Sotware Developer with 1+ years experience in web application development using modern technology such as microservice o monolitich architecture and MVC concepts, have the ability to work together and good communication, have an interest and passion for learning new technologies
 </p>
 
-
 ### Lovely working with
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,angular,nodejs,next,laravel,bootstrap&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,php,python,c,react,angular,remix,nodejs,next,laravel,mysql,mongodb,bootstrap,tailwind,net,vercel,netlify,figma,docker,webpack,linux,vim&theme=light)](https://skillicons.dev)
 
 ### Full Stack Maker at
 | Product | Revenue/month |
