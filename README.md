@@ -6,13 +6,6 @@ Sotware Developer with 1+ years experience in web application development using 
 ### Lovely working with
 [![My Skills](https://skillicons.dev/icons?i=js,ts,php,python,c,react,angular,remix,nodejs,next,laravel,mysql,mongodb,bootstrap,tailwind,net,vercel,netlify,figma,docker,webpack,linux,vim&theme=light)](https://skillicons.dev)
 
-### Full Stack Maker at
-| Product | Revenue/month |
-| ------- | ------- |
-| @kelas_developer    | $400+ |
-| @indocodebase_group | $150+ |
-
-
 
 <h3 align="left"> 🌴 Connect with me:</h3>
 <p align="left">
