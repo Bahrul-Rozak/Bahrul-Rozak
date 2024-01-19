@@ -1,6 +1,6 @@
 ### About Me
 <p align="justify">
-Sotware Developer with 1+ years experience in web application development using modern technology such as microservice o monolitich architecture and MVC concepts, have the ability to work together and good communication, have an interest and passion for learning new technologies
+Software developer from Indonesia, who has experience and specialization in the field of web applications for more than 1 year.
 </p>
 
 ### Lovely working with
