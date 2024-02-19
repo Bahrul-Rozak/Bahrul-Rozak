@@ -1,6 +1,9 @@
 ### About Me
 <p align="justify">
-Software developer from Indonesia, who has experience and specialization in the field of web applications for more than 1 year.
+Bahrul Rozak, 21 years old, a student with 1+ year experience as a Software Developer in web applications, currently works remotely for a private company based on UK. Proficient in JavaScript, PHP, and Python.
+
+Motto
+Building with scalability, secure and high performance.
 </p>
 
 ### Lovely working with
