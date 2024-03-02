@@ -9,6 +9,8 @@ Building with scalability, secure and high performance.
 ### Lovely working with
 [![My Skills](https://skillicons.dev/icons?i=js,ts,php,python,c,react,angular,remix,nodejs,next,laravel,mysql,mongodb,bootstrap,tailwind,net,vercel,netlify,figma,docker,webpack,linux,vim&theme=light)](https://skillicons.dev)
 
+[My Resume](https://docs.google.com/document/d/12z-xfI0aSI-9wxzsEaZbehARGDnruU7Xibkb_TbL4Ng/edit?usp=sharing)
+
 
 <h3 align="left"> 🌴 Connect with me:</h3>
 <p align="left">
