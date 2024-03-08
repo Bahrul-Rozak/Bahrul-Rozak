@@ -1,13 +1,5 @@
-### About Me
-<p align="justify">
-Bahrul Rozak, 21 years old, a student with 1+ year experience as a Software Developer in web applications, currently works remotely for a private company based on UK. Proficient in JavaScript, PHP, and Python.
 
-Motto
-Building with scalability, secure and high performance.
-</p>
-
-### Lovely working with
-[![My Skills](https://skillicons.dev/icons?i=js,ts,php,python,c,react,angular,remix,nodejs,next,laravel,mysql,mongodb,bootstrap,tailwind,net,vercel,netlify,figma,docker,webpack,linux,vim&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,svelte,js,angular,react,redux,next,remix,vuejs,vuetify,nodejs,yarn,ruby,rails,npm,deno,nest,php,laravel,mysql,mongodb,supabase,firebase,graphql,python,pytorch,django,flask,selenium,docker,kubernetes,gitlab,bitbucket,c,net,crystal,java,spring,kotlin,flutter,swift,vim,windows,linux,ubuntu,figma,xd,azure,aws,googlecloud,nginx,bash,vite,gulp,webpack,kafka,vercel,netlify,jest,&theme=dark)](https://skillicons.dev)
 
 [My Resume](https://docs.google.com/document/d/12z-xfI0aSI-9wxzsEaZbehARGDnruU7Xibkb_TbL4Ng/edit?usp=sharing)
 
