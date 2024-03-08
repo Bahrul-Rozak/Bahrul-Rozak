@@ -1,5 +1,5 @@
-
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,svelte,js,angular,react,redux,next,remix,vuejs,vuetify,nodejs,yarn,ruby,rails,npm,deno,nest,php,laravel,mysql,mongodb,supabase,firebase,graphql,python,pytorch,django,flask,selenium,docker,kubernetes,gitlab,bitbucket,c,net,crystal,java,spring,kotlin,flutter,swift,vim,windows,linux,ubuntu,figma,xd,azure,aws,googlecloud,nginx,bash,vite,gulp,webpack,kafka,vercel,netlify,jest,&theme=dark)](https://skillicons.dev)
+### 🚀 Lovely Working with
+[![My Skills](https://skillicons.dev/icons?i=js,php,python,linux,&theme=dark)](https://skillicons.dev)
 
 [My Resume](https://docs.google.com/document/d/12z-xfI0aSI-9wxzsEaZbehARGDnruU7Xibkb_TbL4Ng/edit?usp=sharing)
 
