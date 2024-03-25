@@ -1,3 +1,4 @@
+![banner](https://raw.githubusercontent.com/Bahrul-Rozak/Bahrul-Rozak/master/bg.png)
 ### 🚀 Lovely Working with
 [![My Skills](https://skillicons.dev/icons?i=js,php,python,linux,&theme=dark)](https://skillicons.dev)
 
