@@ -1,4 +1,13 @@
-![banner](https://raw.githubusercontent.com/Bahrul-Rozak/Bahrul-Rozak/master/bg.png)
+### Currently working as
+
+- [Software Developer Contarctor  at Confidential](https://www.linkedin.com/company/33200573)
+- [Cyber Threat Analyst at Confidential](https://www.linkedin.com/company/33200573)
+- [Co Director at Xsites Agency](https://www.linkedin.com/company/102192574)
+- [Founder at Remote Engineering](https://www.linkedin.com/company/100907881)
+- [CEO and Founder at Indocodebase Group non Tbk](https://www.linkedin.com/company/97193647)
+- [Building Free Training for Software Developer](https://www.linkedin.com/company/99163444)
+- [Co Director at RMD Steel]()
+
 ### 🚀 Lovely Working with
 [![My Skills](https://skillicons.dev/icons?i=js,php,python,linux,&theme=dark)](https://skillicons.dev)
 
