@@ -1,7 +1,7 @@
 
 
 ### 🚀 Lovely Working with
-[![My Skills](https://skillicons.dev/icons?i=js,php,python,linux,&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,lua,elixir,clojure,swift,flutter&theme=dark)](https://skillicons.dev)
 
 [My Resume](https://docs.google.com/document/d/12z-xfI0aSI-9wxzsEaZbehARGDnruU7Xibkb_TbL4Ng/edit?usp=sharing)
 
