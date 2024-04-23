@@ -5,6 +5,13 @@
 
 [My Resume](https://docs.google.com/document/d/12z-xfI0aSI-9wxzsEaZbehARGDnruU7Xibkb_TbL4Ng/edit?usp=sharing)
 
+### Experience
+- [Co Director at RMD Steel](https://id.linkedin.com/company/rmd-steel?trk=public_profile_experience-item_profile-section-card_subtitle-click)
+- [Software Developer Contractor](https://www.linkedin.com/company/indpendent-contractor?trk=public_profile_experience-group-header)
+- [Cyber Threat Analyst](https://www.linkedin.com/company/indpendent-contractor?trk=public_profile_experience-group-header)
+- [CEO at Kelas Software Developer](https://www.linkedin.com/company/kelas-developer?trk=public_profile_experience-item_profile-section-card_subtitle-click)
+- [CEO at Remote Engineering](https://www.linkedin.com/company/remoteengineering?trk=public_profile_experience-item_profile-section-card_subtitle-click)
+- [Ex CEO Director at xsites](https://id.linkedin.com/company/xsites-agency?trk=public_profile_experience-item_profile-section-card_subtitle-click)
 ### 🧭 Contact
 - Email : bahrulrozak02@gmail.com
 
