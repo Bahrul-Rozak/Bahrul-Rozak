@@ -9,7 +9,7 @@
 - [Co Director at RMD Steel](https://id.linkedin.com/company/rmd-steel?trk=public_profile_experience-item_profile-section-card_subtitle-click)
 - [Software Developer Contractor](https://www.linkedin.com/company/indpendent-contractor?trk=public_profile_experience-group-header)
 - [Cyber Threat Analyst](https://www.linkedin.com/company/indpendent-contractor?trk=public_profile_experience-group-header)
-- [CEO at Kelas Software Developer](https://www.linkedin.com/company/kelas-developer?trk=public_profile_experience-item_profile-section-card_subtitle-click)
+- [System Architect at Kelas Software Developer](https://www.linkedin.com/company/kelas-developer?trk=public_profile_experience-item_profile-section-card_subtitle-click)
 - [CEO at Remote Engineering](https://www.linkedin.com/company/remoteengineering?trk=public_profile_experience-item_profile-section-card_subtitle-click)
 - [Ex CO Director at xsites](https://id.linkedin.com/company/xsites-agency?trk=public_profile_experience-item_profile-section-card_subtitle-click)
 - [Ex Indonesian Full Stack Web Developer at Inovasi Mitra Sejati, BPTI UHAMKA, FT UHAMKA,IDN]
