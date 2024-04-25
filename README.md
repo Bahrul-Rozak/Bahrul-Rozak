@@ -15,6 +15,11 @@
 - [Ex Indonesian Full Stack Web Developer at Inovasi Mitra Sejati, BPTI UHAMKA, FT UHAMKA,IDN]
 - [Ex Pharmaceutical Care RSUD Kota Tangerang, Kesehatan Daerah Militer Jaya Daan Mogot]
 
+### Article bro
+- [Let's Talk About Microservices Architecture](https://medium.com/@bahrulrozak/lets-talk-about-microservices-architecture-f38eee796001)
+- [Understanding & Implement Design Pattern in JavaScript](https://medium.com/@bahrulrozak/understanding-and-implementing-design-patterns-in-javascript-16551e3ae2aa)
+- [Improve Node Js Application with..](https://medium.com/@bahrulrozak/implementation-of-clustering-techniques-to-improve-node-js-application-performance-85aa75255a17)
+
 ### 🧭 Contact
 - Email : bahrulrozak02@gmail.com
 
