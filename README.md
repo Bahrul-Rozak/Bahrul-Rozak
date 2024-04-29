@@ -1,5 +1,7 @@
 作为一名在软件开发行业拥有两年多经验的全栈开发人员，我在开发 Web 应用程序方面拥有扎实的技能。我对前端和后端技术有深入的了解，例如 HTML、CSS、JavaScript，以及 Angular、React 和 Vue.js 等流行框架。我在使用 Node.js 和 Python 进行服务器端开发方面也拥有丰富的经验。
 
+Hobby bekerja dan mengumpulkan cuan entah itu bangun bisnis, freelance dan lain lain, kalau ada kosong dikit berasa tidak berguna, tapi aku sadar aku hanyalah manusia. Oleh karena itu aku mendelegasikan task ku kepada orang pintar
+
 ### 🚀 Lovely Working with
 [![My Skills](https://skillicons.dev/icons?i=python,lua,elixir,clojure,swift,flutter&theme=dark)](https://skillicons.dev)
 
