@@ -3,8 +3,6 @@
 ### 🚀 Lovely Working with
 [![My Skills](https://skillicons.dev/icons?i=python,lua,elixir,clojure,swift,flutter&theme=dark)](https://skillicons.dev)
 
-[My Resume](https://docs.google.com/document/d/12z-xfI0aSI-9wxzsEaZbehARGDnruU7Xibkb_TbL4Ng/edit?usp=sharing)
-
 
 ### Article bro
 - [Let's Talk About Microservices Architecture](https://medium.com/@bahrulrozak/lets-talk-about-microservices-architecture-f38eee796001)
