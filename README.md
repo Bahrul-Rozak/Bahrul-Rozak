@@ -1,7 +1,7 @@
 
 
 ### 🚀 Lovely Working with
-[![My Skills](https://skillicons.dev/icons?i=python,lua,elixir,clojure,swift,flutter&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,html,css,js&theme=dark)](https://skillicons.dev)
 
 
 ### Article bro
