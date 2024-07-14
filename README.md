@@ -7,6 +7,12 @@
 - Visual Data Pro
 - Auto Scrapping
 - Instagram Profiler
+- Image Enhanced
+- Link Finder
+- ResearchMu
+- LinkUP
+- Resume Robot
+- PyMySQL
 
 ### Director & Founder
 - PT. Karya Digital Negeri
