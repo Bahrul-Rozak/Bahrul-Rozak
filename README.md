@@ -15,13 +15,6 @@
 - Resume Robot
 - PyMySQL
 
-### Man behind 
-- PT. Karya Digital Negeri
-- PT. Indocodebase Group
-- PT. Karier Ideal
-- PT. Agrotekindo
-- PT. Mandiri Tritama Steel
-- CV. RMD Steel
 
 ### Article bro
 - [Let's Talk About Microservices Architecture](https://medium.com/@bahrulrozak/lets-talk-about-microservices-architecture-f38eee796001)
