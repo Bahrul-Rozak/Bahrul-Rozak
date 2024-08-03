@@ -5,9 +5,9 @@
 Email : rozak@codepolitan.com
 
 ### 🚀 Lovely Working with
-[![My Skills](https://skillicons.dev/icons?i=html,css&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,python,bootstrap,laravel,angular,net,mysql,django,flask,next,vue,react,remix,aws,go&theme=dark)](https://skillicons.dev)
 
-### Building SaaS Product
+### Successfuly Profit SaaS Product
 - Visual Data Pro
 - Auto Scrapping
 - Instagram Profiler
