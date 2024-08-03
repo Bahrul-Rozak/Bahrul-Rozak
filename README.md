@@ -1,13 +1,15 @@
+### About Me
 <p> Professional Software Engineer based in Indonesia, specializing in remote work. With a strong focus on Python, I have a successful track record as a Full Stack Engineer for private sector companies, including medical startups, advertisement firms, and software houses, across various countries such as Malaysia, Canada, and Cambodia. My expertise includes developing innovative solutions and leveraging the latest technologies to drive business growth and success, all while working remotely.
 </p>
 
 ### Contact
-Email : rozak@codepolitan.com
+- Email: rozak@codepolitan.com
+- Instagram : @rozak.dexamethasone
 
 ### 🚀 Lovely Working with
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,php,python,bootstrap,laravel,angular,net,mysql,django,flask,next,vue,react,remix,aws,go&theme=dark)](https://skillicons.dev)
 
-### Successfuly Profit SaaS Product
+### Successfully Building Profit SaaS Product
 - Visual Data Pro
 - Auto Scrapping
 - Instagram Profiler
