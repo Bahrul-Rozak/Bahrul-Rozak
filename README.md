@@ -7,16 +7,6 @@
 ### 🚀 Lovely Working with
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,php,python,bootstrap,laravel,angular,net,mysql,django,flask,next,vue,react,remix,aws,go&theme=dark)](https://skillicons.dev)
 
-### Successfully Building Profit SaaS Product
-- Visual Data Pro
-- Auto Scrapping
-- Instagram Profiler
-- Image Enhanced
-- Link Finder
-- ResearchMu
-- LinkUP
-- Resume Robot
-- PyMySQL
 
 
 ### Article bro
