@@ -5,7 +5,7 @@
 - Instagram : @rozak.dexamethasone
 
 ### 🚀 Lovely Working with
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,python,bootstrap,laravel,angular,net,mysql,django,flask,next,vue,react,remix,aws,go&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,bootstrap,django,flask&theme=dark)](https://skillicons.dev)
 
 
 
