@@ -17,7 +17,7 @@
 - [Improve Node Js Application with..](https://medium.com/@bahrulrozak/implementation-of-clustering-techniques-to-improve-node-js-application-performance-85aa75255a17)
 
 ### 🧭 Contact
-- Email : bahrulrozak02@gmail.com
+- Email : rozak@weareworker.my.id
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=y815lrm95x23ga03elyv3x2jc&cover_image=true&theme=natemoo-re&show_offline=true&background_color=0000ff&interchange=true&bar_color=ff0000&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
