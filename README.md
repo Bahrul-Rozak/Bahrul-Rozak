@@ -9,7 +9,7 @@
 ### 🚀 Lovely Working with
 [![My Skills](https://skillicons.dev/icons?i=python,bootstrap,django,flask&theme=dark)](https://skillicons.dev)
 
-### Business
+### Building
 - WeAreWorker,
 - Wiki Python,
 - DexAcademind,
@@ -20,6 +20,16 @@
 - BukaKedai,
 - Lapakita,
 - LapakProperti
+
+### Resolusi
+- ~~Publikasi di 3 jurnal nasional~~
+- ~~Buat 10 kelas di udemy~~
+- ~~Bangun bisnis yang menguntungkan stabil 2 digit per bulan~~
+- ~~Kerja jadi software engineering di sektor finance~~
+- Beli Mobil sebelum 25 tahun
+- Omset bisnis 3 digit per bulan
+- Masuk majalah forbes
+- Mendirikan perusahaan di USA
 
 
 
