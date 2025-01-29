@@ -9,20 +9,13 @@
 ### 🚀 Lovely Working with
 [![My Skills](https://skillicons.dev/icons?i=python,bootstrap,django,flask&theme=dark)](https://skillicons.dev)
 
-### Building
-- WeAreWorker,
-- Wiki Python,
-- DexAcademind,
-- PT. Karya Digital Negeri,
-- PT RMD Steel Utama,
-- PT. Ternak Sehat Nusantara,
-- Reusabl,
-- BukaKedai,
-- Lapakita,
-- LapakProperti
 
-### Resolusi
+### Resolusi (Sengaja Taroh disini, buat reminder dan penyemangat aja...)
+- ~~Jadi ketua wk~~
+- ~~Beasiswa Sekolah~~
+- ~~Lulus dengan nilai terbaik~~
 - ~~Kerja jadi asisten apoteker~~
+- ~~switch career jadi programmer~~
 - ~~Magang jadi web developer~~
 - ~~Kerja jadi programmer sebelum lulus~~
 - ~~Publikasi di 3 jurnal nasional~~
@@ -30,11 +23,19 @@
 - ~~Bangun bisnis yang menguntungkan stabil 2 digit per bulan~~
 - ~~Kerja jadi software engineering di sektor finance~~
 - ~~Legalisasi Beberapa Bisnis jadi PT~~
+- ~~Gabung jadi Asosiasi Pengusaha Indonesia~~
 - Beli Mobil Mercedes Benz C200 sebelum 25 tahun
+- Top Rated Upwork (Python)
 - Omset bisnis 3 digit per bulan
-- Beli Mobil Toyota Camry Hybrid 
+- Umroh setiap tahun sama orang tua dan pasangan
+- Beli Mobil Toyota Camry Hybrid
+- Beli Mesin Tekuk wk
 - Masuk majalah forbes
+- Menjadi speaker di TED
 - Mendirikan perusahaan di USA
+- Gabung kemitraan Kimia Farma
+
+Jika kamu ingin menyerah, lihatlah list coret ini, ternyata kamu bisa kok, mr rozak : D
 
 
 
