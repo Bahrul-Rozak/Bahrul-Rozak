@@ -26,7 +26,7 @@
 - ~~Buat 10 kelas di udemy~~
 - ~~Bangun bisnis yang menguntungkan stabil 2 digit per bulan~~
 - ~~Kerja jadi software engineering di sektor finance~~
-- Beli Mobil sebelum 25 tahun
+- Beli Mobil Toyota Camry Hybrid sebelum 25 tahun
 - Omset bisnis 3 digit per bulan
 - Masuk majalah forbes
 - Mendirikan perusahaan di USA
