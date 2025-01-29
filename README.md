@@ -22,6 +22,7 @@
 - LapakProperti
 
 ### Resolusi
+- ~~Kerja jadi programmer sebelum lulus~~
 - ~~Publikasi di 3 jurnal nasional~~
 - ~~Buat 10 kelas di udemy~~
 - ~~Bangun bisnis yang menguntungkan stabil 2 digit per bulan~~
