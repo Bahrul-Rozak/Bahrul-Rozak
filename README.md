@@ -22,13 +22,17 @@
 - LapakProperti
 
 ### Resolusi
+- ~~Kerja jadi asisten apoteker~~
+- ~~Magang jadi web developer~~
 - ~~Kerja jadi programmer sebelum lulus~~
 - ~~Publikasi di 3 jurnal nasional~~
 - ~~Buat 10 kelas di udemy~~
 - ~~Bangun bisnis yang menguntungkan stabil 2 digit per bulan~~
 - ~~Kerja jadi software engineering di sektor finance~~
-- Beli Mobil Toyota Camry Hybrid sebelum 25 tahun
+- ~~Legalisasi Beberapa Bisnis jadi PT~~
+- Beli Mobil Mercedes Benz C200 sebelum 25 tahun
 - Omset bisnis 3 digit per bulan
+- Beli Mobil Toyota Camry Hybrid 
 - Masuk majalah forbes
 - Mendirikan perusahaan di USA
 
