@@ -1,4 +1,4 @@
-![Profile Image](https://github.com/Bahrul-Rozak/Bahrul-Rozak/blob/master/weareworker-cover.png?raw=true)
+![Profile Background](https://media.licdn.com/dms/image/v2/D5616AQFH20b0whqTkg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1737797289455?e=1743638400&v=beta&t=r8_tHwYN0hFHXX1xPNAw7koRCQxlIm3YjrG4ze_SeAs)
 
 ### 🌟 Contact
 - 📧 Email: [bahrulrozak1453@protonmail.com](mailto:bahrulrozak1453@protonmail.com)
