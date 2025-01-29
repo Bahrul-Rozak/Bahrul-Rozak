@@ -9,6 +9,18 @@
 ### 🚀 Lovely Working with
 [![My Skills](https://skillicons.dev/icons?i=python,bootstrap,django,flask&theme=dark)](https://skillicons.dev)
 
+### Business
+- WeAreWorker,
+- Wiki Python,
+- DexAcademind,
+- PT. Karya Digital Negeri,
+- PT RMD Steel Utama,
+- PT. Ternak Sehat Nusantara,
+- Reusabl,
+- BukaKedai,
+- Lapakita,
+- LapakProperti
+
 
 
 ### Article bro
