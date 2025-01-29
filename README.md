@@ -26,7 +26,8 @@
 - ~~Gabung jadi Asosiasi Pengusaha Indonesia~~
 - Beli Mobil Mercedes Benz C200 sebelum 25 tahun
 - Top Rated Upwork (Python)
-- Omset bisnis 3 digit per bulan
+- Kejar 300 ribu murid online
+- Omset bisnis bersih 3 digit per bulan
 - Umroh setiap tahun sama orang tua dan pasangan
 - Beli Mobil Toyota Camry Hybrid
 - Beli Mesin Tekuk wk
