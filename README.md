@@ -4,7 +4,7 @@
 
 ### 🌟 Contact
 - 📧 Email: [bahrulrozak1453@protonmail.com](mailto:bahrulrozak1453@protonmail.com)
-- 📸 Instagram: [@rozak.dexamethasone](https://www.instagram.com/rozak.dexamethasone/)
+- 📸 Instagram: [@rozak.dexamethasone](https://www.instagram.com/bahrulrozakdev)
 
 ### 🚀 Skills & Tools I Love
 [![My Skills](https://skillicons.dev/icons?i=python,bootstrap,django,flask&theme=dark)](https://skillicons.dev)
