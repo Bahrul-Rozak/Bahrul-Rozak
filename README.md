@@ -1,5 +1,5 @@
 
-![个人资料背景](https://media.licdn.com/dms/image/v2/D5616AQFH20b0whqTkg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1737797289455?e=1743638400&v=beta&t=r8_tHwYN0hFHXX1xPNAw7koRCQxlIm3YjrG4ze_SeAs)
+![个人资料背景](https://media.licdn.com/dms/image/v2/D5616AQF1YhiQZBvmYQ/profile-displaybackgroundimage-shrink_350_1400/B56ZXzf9JrHEAY-/0/1743546996392?e=1749081600&v=beta&t=PRQS4UI7pwi8JpFvqHeCtf5aSfLjwyflTt4N_sL_920)
 
 ### 🌟 联系方式
 - 📧 邮箱: [bahrulrozak1453@protonmail.com](mailto:bahrulrozak1453@protonmail.com)  
