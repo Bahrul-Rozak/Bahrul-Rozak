@@ -1,6 +1,4 @@
 
-![个人资料背景](https://media.licdn.com/dms/image/v2/D5616AQF1YhiQZBvmYQ/profile-displaybackgroundimage-shrink_350_1400/B56ZXzf9JrHEAY-/0/1743546996392?e=1749081600&v=beta&t=PRQS4UI7pwi8JpFvqHeCtf5aSfLjwyflTt4N_sL_920)
-
 ### 🌟 联系方式
 - 📧 邮箱: [bahrulrozak1453@protonmail.com](mailto:bahrulrozak1453@protonmail.com)  
 - 📸 Instagram: [@rozak.dexamethasone](https://www.instagram.com/bahrulrozakdev)
@@ -14,7 +12,8 @@ Karena cinta...
 Kita bisa membuat dunia ini menjadi lebih baik,
 Karena cinta...
 Tidak ada lagi keraguan...
-Yang ada hanyalah kepercayaan, untuk terus bergerak dan tumbuh bersama-sama
+Yang ada hanyalah kepercayaan,
+untuk terus bergerak dan tumbuh bersama-sama
 ...Menuju kearah yang lebih baik.
 ```
 
