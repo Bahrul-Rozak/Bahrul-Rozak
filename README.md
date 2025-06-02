@@ -4,7 +4,7 @@
 - 📸 Instagram: [@rozak.dexamethasone](https://www.instagram.com/bahrulrozakdev)
 
 ### 🚀 我热爱的技能与工具
-[![My Skills](https://skillicons.dev/icons?i=python,bootstrap,django,flask&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,javascript,typescript,dart,java,php,golang,c,python,bootstrap,django,flask,laravel,net,angular,firebase,mysql,mongodb,sqlite,ruby&theme=dark)](https://skillicons.dev)
 
 ```
 Cinta bukan hanya soal, rasa...
