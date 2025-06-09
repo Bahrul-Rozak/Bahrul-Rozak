@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Bahrul Rozak 👋</h1>
 
 <p align="center">
-  🌍 Full-Stack Engineer | 🧠 Tech Enthusiast | ✍️ Writer   
+  🌍 Full-Stack Engineer | 🧠 Tech Enthusiast | ✍️ Writer | 😊 Entrepreneur   
 </p>
 
 ---
