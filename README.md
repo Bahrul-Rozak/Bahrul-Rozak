@@ -1,7 +1,7 @@
 
 ### 🌟 联系方式
-- 📧 邮箱: [bahrulrozak1453@protonmail.com](mailto:bahrulrozak1453@protonmail.com)  
-- 📸 Instagram: [@rozak.dexamethasone](https://www.instagram.com/bahrulrozakdev)
+- 📧 邮箱: [email@bahrulrozak.com](mailto:email@bahrulrozak.com)  
+- 📸 Instagram: [@rozak.dexamethasone](https://www.instagram.com/rozak.dexamethasone)
 
 ### 🚀 我热爱的技能与工具
 [![My Skills](https://skillicons.dev/icons?i=html,javascript,typescript,dart,java,php,golang,c,python,bootstrap,django,flask,laravel,net,angular,firebase,mysql,mongodb,sqlite,ruby&theme=dark)](https://skillicons.dev)
