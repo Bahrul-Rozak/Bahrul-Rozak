@@ -44,6 +44,30 @@
 
 ---
 
+### 📈 Bootstrapping, Building, and Scaling Businesses
+
+Bootstrapping, building, and scaling **13+ businesses** — all without external investors.  
+Currently actively running and managing the following platforms:
+
+| No. | Name / Handle                          | Description                                                                                                      |
+|-----|----------------------------------------|---------------------------------------------------------------------------------------------------------------|
+| 1   | **@weareworker**                       | Komunitas pencari kerja yang menghubungkan talent dengan peluang kerja lokal secara cepat dan efisien.       |
+| 2   | **@temukanlokermedismu**               | Platform lowongan kerja khusus untuk tenaga medis dan kesehatan di Indonesia.                                |
+| 3   | **@temukananakmagang**                 | Jembatan antara mahasiswa dan perusahaan untuk akses magang berkualitas dan relevan.                         |
+| 4   | **@temukantrucksecondmu**             | Marketplace truk bekas terpercaya untuk kebutuhan logistik dan usaha.                                        |
+| 5   | **@temukanpropertymu**                | Platform pencarian properti (rumah, tanah, ruko) langsung dari pemilik dan agen lokal.                       |
+| 6   | **@temukanmobilsecondmu**             | Marketplace mobil bekas terkurasi dengan proses aman dan transparan.                                         |
+| 7   | **@mandiritrimatasteel**              | Supplier baja ringan dan material bangunan untuk proyek konstruksi dan kebutuhan rumah tangga.              |
+| 8   | **@happyfounder.co**                  | Media dan komunitas untuk founder yang membangun bisnis tanpa investor (bootstrapped founder).               |
+| 9   | **@aseantechconnect**                 | Inisiatif kolaborasi teknologi dan digital antar negara ASEAN, fokus pada inovasi & pertumbuhan.            |
+| 10  | **@sportability**                     | Marketplace barang-barang sport preloved, untuk gaya hidup aktif yang lebih terjangkau dan berkelanjutan.   |
+| 11  | **@pythonmastery**                    | Platform belajar Python dari nol sampai mahir, untuk pemula, developer, dan problem solver digital.         |
+| 12  | **@codingforteenager**                | Program coding khusus remaja agar mereka melek digital, kreatif, dan siap menghadapi masa depan.            |
+| 13  | **@disabiltyjobhunt**                 | Platform inklusif untuk membantu penyandang disabilitas menemukan peluang kerja yang layak dan sesuai potensi. |
+
+> ✨ All these initiatives are built with the spirit of independence, social impact, and sustainable growth without relying on external investors.
+
+
 ### 🔢 Visitor Count
 <p align="center">
   <img src="https://visitcount.itsvg.in/api?id=Bahrul-Rozak&icon=0&color=0" alt="Visitor Count">
