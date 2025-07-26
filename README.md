@@ -1,5 +1,5 @@
 ![image](https://media.licdn.com/dms/image/v2/D4D16AQG9LFaMaOW2tA/profile-displaybackgroundimage-shrink_350_1400/B4DZg5srPNHAAk-/0/1753314671957?e=1756339200&v=beta&t=1YzeVR5Tdpdc2rdaYRUcL8iJWP0lYnVzx7ozrorj2uI)
-<h1 align="center" style="color: #2e8b57;">Hi there, I'm Bahrul Rozak 👋</h1>
+<h1 align="center" style="color: #2e8b57;">Hi there, I'm Bahrul Rozak, 23y.o 👋</h1>
 
 <p align="center" style="color: #3a7d44;">
   Software Engineer | Building & Scaling Business since 2012 | Renewable Energy & Sustainability Enthusiast
