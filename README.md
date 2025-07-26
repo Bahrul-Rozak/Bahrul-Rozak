@@ -1,7 +1,9 @@
+![image](https://media.licdn.com/dms/image/v2/D4D16AQG9LFaMaOW2tA/profile-displaybackgroundimage-shrink_350_1400/B4DZg5srPNHAAk-/0/1753314671957?e=1756339200&v=beta&t=1YzeVR5Tdpdc2rdaYRUcL8iJWP0lYnVzx7ozrorj2uI)
 <h1 align="center" style="color: #2e8b57;">Hi there, I'm Bahrul Rozak 👋</h1>
 
 <p align="center" style="color: #3a7d44;">
   Software Engineer | Building & Scaling Business since 2012 | Renewable Energy & Sustainability Enthusiast
+  <br>
 </p>
 
 ---
@@ -9,6 +11,13 @@
 ### 🌱 Contact Me
 - 📧 Email: [email@bahrulrozak.com](mailto:email@bahrulrozak.com)  
 - 📸 Instagram: [@rozak.dexamethasone](https://www.instagram.com/rozak.dexamethasone)
+
+### 🌷 Building
+- WeAreWorker - The Biggest Green job Platform at ASEAN
+- AseanTechConnect - Media for Developer
+- Reusabl - Jual Beli Barang Preloved Berkualitas Tinggi dengan Harga Tinggi
+- Dexacademi - Marketplace for Professional and Creator
+- Temukanmobilmu - Marketplace for to sell and buy second car
 
 ---
 
