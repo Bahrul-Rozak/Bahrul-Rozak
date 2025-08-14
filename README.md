@@ -12,19 +12,6 @@
 - 📧 Email: [email@bahrulrozak.com](mailto:email@bahrulrozak.com)  
 - 📸 Instagram: [@rozak.dexamethasone](https://www.instagram.com/rozak.dexamethasone)
 
-### 🌷 Building
-- WeAreWorker - The Biggest Green Job and General Job Platform at ASEAN
-- AseanTechConnect - Media for Developer
-- Reusabl - Jual Beli Barang Preloved Berkualitas Tinggi dengan Harga Tinggi
-- Dexacademi - Marketplace for Professional and Creator to convert their experience to passive income with great rates.
-- Temukanmobilmu - Marketplace for to sell and buy second car.
-- Fullstack Guru - Super Platform for help you become to a Full Stack Developer start from $55/year or only $100 life time access.
-- Coding Kids - Learn coding fun for kids (Roblox, Stratch, Game Development) starting from $25
-- Coding Mommy - Soon
-- AI For Kids - Soon
-- Academy Web3 - Soon
-- Python Guru - Soon
----
 
 ### 🍃 Skills & Tools I Love
 <p align="center">
