@@ -10,7 +10,7 @@
 
 ### 🌱 Contact Me
 - 📧 Email: [email@bahrulrozak.com](mailto:email@bahrulrozak.com)  
-- 📸 Instagram: [@rozak.dexamethasone](https://www.instagram.com/rozkstar.io)
+- 📸 Instagram: [@rozkstar.io](https://www.instagram.com/rozkstar.io)
 
 
 ### 🍃 Skills & Tools I Love
