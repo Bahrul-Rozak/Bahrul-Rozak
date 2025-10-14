@@ -9,7 +9,7 @@
 ---
 
 ### 🌱 Contact Me
-- 📧 Email: [email@bahrulrozak.com](mailto:rozak@sahabatbelajar.com)  
+- 📧 Email: [rozak@sahabatbelajar.com](mailto:rozak@sahabatbelajar.com)  
 - 📸 Instagram: [@rozkstar.io](https://www.instagram.com/rozkstar.io)
 
 
