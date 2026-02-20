@@ -1,59 +1,84 @@
-![image](https://media.licdn.com/dms/image/v2/D5616AQHqFtwuUtuiTA/profile-displaybackgroundimage-shrink_200_800/B56Zx78Rx1JUAY-/0/1771605939383?e=1773273600&v=beta&t=iDDYZ5GDtLZl1WgHSIfBXI8kTMBAnBKvc4PQwkvGpIk)
-<h1 align="center" style="color: #2e8b57;">Hi there, I'm Bahrul Rozak, 23y.o 👋</h1>
+<!-- Dynamic Header with Typing Effect -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=2E8B57&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Bahrul+Rozak;Software+Engineer;Sustainability+Enthusiast;Building+Since+2012" alt="Typing SVG" />
+  </a>
+</p>
 
-<p align="center" style="color: #3a7d44;">
-  Software Engineer | Building & Scaling Business since 2012 | Renewable Energy & Sustainability Enthusiast
+<!-- Original Banner Image -->
+<p align="center">
+  <img src="https://media.licdn.com/dms/image/v2/D5616AQHqFtwuUtuiTA/profile-displaybackgroundimage-shrink_200_800/B56Zx78Rx1JUAY-/0/1771605939383?e=1773273600&v=beta&t=iDDYZ5GDtLZl1WgHSIfBXI8kTMBAnBKvc4PQwkvGpIk" alt="Bahrul Rozak Banner" width="100%">
+</p>
+
+<!-- Short Bio with Badges -->
+<p align="center">
+  <b>Software Engineer</b> | Building & Scaling Businesses since 2012 🌱
   <br>
-</p>
-
----
-
-### 🌱 Contact Me
-- 📧 Email: [rozak@sahabatbelajar.com](mailto:rozak@sahabatbelajar.com)  
-- 📸 Instagram: [@rozkstar.io](https://www.instagram.com/rozkstar.io)
-
-
-### 🍃 Skills & Tools I Love
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,javascript,typescript,dart,java,php,golang,c,python,bootstrap,django,flask,laravel,net,angular,firebase,mysql,mongodb,sqlite,ruby&theme=light&perline=10" alt="My Skills">
-</p>
-
----
-
-### 🌿 About Me
-> _"Cinta bukan hanya soal rasa... Karena cinta, kita bisa membuat dunia ini jadi lebih baik."_  
-> _Karena cinta, gak ada lagi keraguan. Yang ada hanyalah kepercayaan untuk terus bergerak dan tumbuh bersama..._  
-> _Menuju arah yang lebih baik._ ❤️🌱
-
----
-
-### 🌳 Featured Articles
-📗 Sharing my thoughts and knowledge in tech:
-
-- 🍀 [Let's Talk About Microservices Architecture](https://medium.com/@bahrulrozak/lets-talk-about-microservices-architecture-f38eee796001)  
-- 🌴 [Understanding and Implementing Design Patterns in JavaScript](https://medium.com/@bahrulrozak/understanding-and-implementing-design-patterns-in-javascript-16551e3ae2aa)  
-- 🌵 [Improving Node.js App Performance with Clustering Techniques](https://medium.com/@bahrulrozak/implementation-of-clustering-techniques-to-improve-node-js-application-performance-85aa75255a17)
-
----
-
-### 🎵 Now Playing on Spotify
-<p align="center">
-  <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=y815lrm95x23ga03elyv3x2jc&cover_image=true&theme=default&show_offline=true&background_color=2e8b57&interchange=true&bar_color=4caf50&bar_color_cover=true" alt="Spotify Now Playing">
+  <b>Renewable Energy & Sustainability Enthusiast</b> 🌍
+  <br><br>
+  <!-- Contact Badges -->
+  <a href="mailto:rozak@sahabatbelajar.com">
+    <img src="https://img.shields.io/badge/Email-rozak%40sahabatbelajar.com-2E8B57?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://www.instagram.com/rozkstar.io">
+    <img src="https://img.shields.io/badge/Instagram-%40rozkstar.io-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
 </p>
 
 ---
 
-### 🌎 Visitor Count
+## 🛠️ My Tech Stack
+I work with a variety of technologies to build scalable and sustainable solutions.
+
 <p align="center">
-   <img src="https://komarev.com/ghpvc/?username=Bahrul-Rozak&label=Profile%20views&color=ff69b4&style=flat" alt="Profile Views">
+  <img src="https://skillicons.dev/icons?i=html,js,ts,dart,java,php,go,c,python,bootstrap,django,flask,laravel,net,angular,firebase,mysql,mongodb,sqlite,ruby&theme=light&perline=10" alt="My Skills" />
 </p>
 
 ---
 
-<p align="center" style="color: #4caf50;">
-  ✨ Powered by ❤️ and curiosity let's build something meaningful together. - Semangat demi si cantik : )
+## 🍃 About Me
+I believe that technology, like love, has the power to make the world a better place. My journey since 2012 has been about learning, building, and scaling ideas with trust and a vision for a more sustainable future.
+
+> *"Cinta bukan hanya soal rasa... Karena cinta, kita bisa membuat dunia ini jadi lebih baik. Karena cinta, gak ada lagi keraguan. Yang ada hanyalah kepercayaan untuk terus bergerak dan tumbuh bersama... Menuju arah yang lebih baik."* ❤️🌱
+
+---
+
+
+## 📝 Latest Articles
+I occasionally write about tech, architecture, and best practices.
+
+- 🍀 [Let's Talk About Microservices Architecture](https://medium.com/@bahrulrozak/lets-talk-about-microservices-architecture-f38eee796001)
+- 🌴 [Understanding and Implementing Design Patterns in JavaScript](https://medium.com/@bahrulrozak/understanding-and-implementing-design-patterns-in-javascript-16551e3ae2aa)
+- 🌵 [Improving Node.js App Performance with Clustering Techniques](https://medium.com/@bahrulrozak/implementation-of-clustering-techniques-to-improve-node-js-application-performance-85aa75255a17)
+
+---
+
+## 📊 GitHub Stats
+A glimpse into my coding activity.
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Bahrul-Rozak&show_icons=true&theme=ayu-mirage&hide_border=true&bg_color=0D1117&title_color=2E8B57&icon_color=4C9A2A&text_color=c9d1d9" alt="Bahrul's GitHub Stats" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bahrul-Rozak&layout=compact&theme=ayu-mirage&hide_border=true&bg_color=0D1117&title_color=2E8B57&text_color=c9d1d9" alt="Top Languages" width="48%"/>
 </p>
 
-<!-- Proudly generated by GPRM ( https://gprm.itsvg.in ) -->
+---
+
+## 🎵 Currently Listening To
+<p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=y815lrm95x23ga03elyv3x2jc&cover_image=true&theme=default&show_offline=true&background_color=0d1117&interchange=true&bar_color=2e8b57&bar_color_cover=true" alt="Spotify Now Playing">
+  </a>
+</p>
+
+---
+
+## 🌎 Visitor Count
+<p align="center">
+   <img src="https://komarev.com/ghpvc/?username=Bahrul-Rozak&label=Profile%20Views&color=2e8b57&style=for-the-badge" alt="Profile Views">
+</p>
+
+---
+
+<p align="center">
+  ✨ Powered by ❤️ and curiosity. Let's build a better future, one line of code at a time. - Semangat demi si cantik : )
+</p>
