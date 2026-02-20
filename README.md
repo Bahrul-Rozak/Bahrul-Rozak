@@ -60,6 +60,51 @@ A glimpse into my coding activity.
   <img src="https://media1.tenor.com/m/kKLaZd6ChEAAAAAd/china-air-force.gif" alt="Bahrul's GitHub Stats" width="100%"/>
 </p>
 
+<div align="center">
+
+  <!-- Header & Followers Badge -->
+  <img src="https://img.shields.io/badge/Status-Open%20for%20Work-00A8FF?style=for-the-badge&logo=github&logoColor=white" alt="Status Badge" />
+  <img src="https://img.shields.io/github/followers/bahrul-rozak?style=for-the-badge&logo=github&label=Followers&color=7B68EE&logoColor=white" alt="Followers Badge" />
+  <br/><br/>
+
+  <!-- Profile Summary Cards (Dashboard Style) -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bahrul-rozak&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bahrul-rozak&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/top-languages?username=bahrul-rozak&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bahrul-rozak&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bahrul-rozak&theme=tokyonight" />
+
+  <br/><br/>
+
+  <!-- Main Stats & Streak -->
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=bahrul-rozak&show_icons=true&theme=tokyonight&hide_title=true&hide_rank=false" alt="GitHub Stats" />
+      </td>
+      <td>
+        <img src="https://streak-stats.demolab.com?user=bahrul-rozak&theme=tokyonight&hide_border=true" alt="Commit Streak" />
+      </td>
+    </tr>
+  </table>
+
+  <br/>
+
+  <!-- Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bahrul-rozak&theme=tokyonight&hide_border=true&area=true" alt="Activity Graph" width="100%" />
+
+  <br/><br/>
+
+  <!-- Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=bahrul-rozak&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="Trophies" />
+
+  <br/><br/>
+
+  <!-- Visitor Count & Social -->
+  <img src="https://komarev.com/ghpvc/?username=bahrul-rozak&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+
+</div>
+
 ---
 
 ## 🎵 Currently Listening To
