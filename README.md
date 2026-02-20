@@ -1,4 +1,4 @@
-![image](https://media.licdn.com/dms/image/v2/D5616AQEU8OtC36V3WQ/profile-displaybackgroundimage-shrink_200_800/B56Zx77kjKG4AU-/0/1771605766860?e=1773273600&v=beta&t=n_vQ3XN5w_XtbSE1-tj792u_ouBleJQwVO5uiv5w2Lc)
+![image](https://media.licdn.com/dms/image/v2/D5616AQHqFtwuUtuiTA/profile-displaybackgroundimage-shrink_200_800/B56Zx78Rx1JUAY-/0/1771605939383?e=1773273600&v=beta&t=iDDYZ5GDtLZl1WgHSIfBXI8kTMBAnBKvc4PQwkvGpIk)
 <h1 align="center" style="color: #2e8b57;">Hi there, I'm Bahrul Rozak, 23y.o 👋</h1>
 
 <p align="center" style="color: #3a7d44;">
