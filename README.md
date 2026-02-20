@@ -57,8 +57,7 @@ I occasionally write about tech, architecture, and best practices.
 A glimpse into my coding activity.
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bahrul-Rozak&show_icons=true&theme=ayu-mirage&hide_border=true&bg_color=0D1117&title_color=2E8B57&icon_color=4C9A2A&text_color=c9d1d9" alt="Bahrul's GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bahrul-Rozak&layout=compact&theme=ayu-mirage&hide_border=true&bg_color=0D1117&title_color=2E8B57&text_color=c9d1d9" alt="Top Languages" width="48%"/>
+  <img src="https://media1.tenor.com/m/kKLaZd6ChEAAAAAd/china-air-force.gif" alt="Bahrul's GitHub Stats" width="100%"/>
 </p>
 
 ---
